@@ -138,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of test"
+              "title": "Outline"
             }
           }
         ],
@@ -171,9 +170,9 @@
     "README.md",
     "Initial Scanning Checklist.md",
     "Learning/test.md",
-    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Pinger 1of2/Notes.md",
+    "01-Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Pinger 1of2/Notes.md",
     "New Text Document.txt",
-    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Share Notez 1of2/Notes.md",
+    "01-Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Share Notez 1of2/Notes.md",
     "Cheatsheets/Initial Scanning Checklist.md",
     "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.86 - SQL Injection - LCE/6. Initial Web Enum - SQL Injection MySQL - local.txt.md",
     "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.86 - SQL Injection - LCE/3. gobuster.md",
@@ -195,12 +194,12 @@
     "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/9. Construction - XSS - XSS to Rev Shell - Linux - Hard/3.5 Gobuster - 3000.md",
     "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/27. 09MAY2025 OffSec Meeting/Solarmedical/notes.md",
     "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/Running Methodology OSWA.md",
-    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Ninox",
-    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Pinger 1of2",
-    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Kaleb Machine 2of2",
-    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/MedSec Pay",
-    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Share Notez 1of2",
-    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918",
+    "01-Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Ninox",
+    "01-Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Pinger 1of2",
+    "01-Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Kaleb Machine 2of2",
+    "01-Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/MedSec Pay",
+    "01-Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Share Notez 1of2",
+    "01-Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918",
     "Penetration Testing home/vm_Domain/screenshots/Pasted image 20230929145259.png",
     "Penetration Testing home/vm_Domain/screenshots/Pasted image 20231005094424.png",
     "Penetration Testing home/vm_Domain/screenshots/Pasted image 20231005094350.png",

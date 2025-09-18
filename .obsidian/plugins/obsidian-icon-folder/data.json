@@ -45,11 +45,6 @@
   "Cheatsheets/Initial Scanning Checklist.md": "SiCheckmarx",
   "Techniques Tactics & Procedures (TTP)/Pivoting": "RaReverse",
   "Organizational Misc": "RaHelp",
-  "Learning": "RaBrainFreeze",
-  "Learning/Offensive Security Web Assessor (OSWA)": "SiWeightsandbiases",
-  "Learning/Offensive Security Certified Professional (OSCP)": "RaSpiralShell",
-  "Learning/Certified Red Team Operator": "SiIbeacon",
-  "Learning/Certified Information Systems Security Professional (CISSP)": "RaShield",
   "Cheatsheets/Commands - Linux": "SiLinux",
   "Cheatsheets/Commands - Windows": "SiWindowsxp",
   "Techniques Tactics & Procedures (TTP)/Initial Access": "RaBatteredAxe",
@@ -58,5 +53,10 @@
   "Cheatsheets/Commands - Powershell": "SiPowershell",
   "Penetration Testing home": "RaClockwork",
   "Archive (Discontinued 18SEP2025)": "SiInternetarchive",
-  "Archive - Discontinued - September 18 2025": "SiInternetarchive"
+  "Archive - Discontinued - September 18 2025": "SiInternetarchive",
+  "01-Learning": "RaBrainFreeze",
+  "01-Learning/Certified Information Systems Security Professional (CISSP)": "RaShield",
+  "01-Learning/Certified Red Team Operator": "SiIbeacon",
+  "01-Learning/Offensive Security Certified Professional (OSCP)": "RaSpiralShell",
+  "01-Learning/Offensive Security Web Assessor (OSWA)": "SiWeightsandbiases"
 }

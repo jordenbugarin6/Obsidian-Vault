@@ -46,11 +46,9 @@
   "Techniques Tactics & Procedures (TTP)/Pivoting": "RaReverse",
   "Organizational Misc": "RaHelp",
   "Cheatsheets/Commands - Linux": "SiLinux",
-  "Cheatsheets/Commands - Windows": "SiWindowsxp",
   "Techniques Tactics & Procedures (TTP)/Initial Access": "RaBatteredAxe",
   "Techniques Tactics & Procedures (TTP)/PrivEsc": "RaCrown",
   "Techniques Tactics & Procedures (TTP)/Exfiltration": "RaBladeBite",
-  "Cheatsheets/Commands - Powershell": "SiPowershell",
   "Penetration Testing home": "RaClockwork",
   "Archive (Discontinued 18SEP2025)": "SiInternetarchive",
   "Archive - Discontinued - September 18 2025": "SiInternetarchive",
@@ -58,5 +56,7 @@
   "Learning/Certified Information Systems Security Professional (CISSP)": "RaShield",
   "Learning/Offensive Security Certified Professional (OSCP)": "RaSpiralShell",
   "Learning/Offensive Security Web Assessor (OSWA)": "SiWeightsandbiases",
-  "Learning/Certified Red Team Operator": "SiIbeacon"
+  "Learning/Certified Red Team Operator": "SiIbeacon",
+  "Cheatsheets/Commands - Windows": "SiWindowsxp",
+  "Cheatsheets/Commands - Windows/Commands - Powershell": "SiPowershell"
 }

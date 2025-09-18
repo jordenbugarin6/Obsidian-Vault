@@ -8006,7 +8006,6 @@
     ],
     "Cheatsheets": [
       "Cheatsheets/Initial Scanning Checklist.md",
-      "Cheatsheets/Commands - Powershell",
       "Cheatsheets/Commands - Windows",
       "Cheatsheets/Commands - Linux"
     ],
@@ -8027,8 +8026,6 @@
       "Cheatsheets/Commands - Linux/Misc/unset - history.md",
       "Cheatsheets/Commands - Linux/Misc/base64 - encode - decode.md"
     ],
-    "Cheatsheets/Commands - Powershell": [],
-    "Cheatsheets/Commands - Windows": [],
     "Daily Tasks": [
       "Daily Tasks/20250918.md",
       "Daily Tasks/20250911.md"
@@ -8062,6 +8059,7 @@
       "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Share Notez 1of2/Notes.md"
     ],
     "Organizational Misc": [
+      "Organizational Misc/GitHub Guidance-for-Notes.md",
       "Organizational Misc/Screenshot Guidance.md",
       "Organizational Misc/Tag Guidance.md"
     ],
@@ -8103,7 +8101,11 @@
       "Techniques Tactics & Procedures (TTP)/Pivoting/chisel pivot.md"
     ],
     "Techniques Tactics & Procedures (TTP)/PrivEsc": [],
-    "Techniques Tactics & Procedures (TTP)/Web Applications": []
+    "Techniques Tactics & Procedures (TTP)/Web Applications": [],
+    "Cheatsheets/Commands - Windows": [
+      "Cheatsheets/Commands - Windows/Commands - Powershell"
+    ],
+    "Cheatsheets/Commands - Windows/Commands - Powershell": []
   },
   "draggingEnabled": true,
   "selectedSortOrder": "manual-sorting"

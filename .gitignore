@@ -3,14 +3,14 @@
 
 # Optional: also ignore big binaries you don’t want in notes
 *.vmdk
-*.iso
-*.ova
-*.zip
-*.7z
-*.tar
-*.gz
-*.mp4
-*.mov
+# *.iso
+# *.ova
+# *.zip
+# *.7z
+# *.tar
+# *.gz
+# *.mp4
+# *.mov
 
 # Obsidian noise
 # .obsidian/workspace

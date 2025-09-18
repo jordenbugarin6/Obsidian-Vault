@@ -1,0 +1,1 @@
+nmap -> SSRF identification, `SSRF2Gopher` to get administrator credentials through admin api, SSTI `mako` discovery - > python reverse shell

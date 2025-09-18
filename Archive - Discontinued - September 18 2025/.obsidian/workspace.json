@@ -1,0 +1,444 @@
+{
+  "main": {
+    "id": "413eb2df55a95360",
+    "type": "split",
+    "children": [
+      {
+        "id": "b33289872d14983b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46d3fd606677b5e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/27. 09MAY2025 OffSec Meeting/Solarmedical/notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "notes"
+            }
+          },
+          {
+            "id": "2e92bbf53c39efbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/Running Methodology OSWA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Running Methodology OSWA"
+            }
+          },
+          {
+            "id": "ce939665ec383570",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11.1 Cobalt Strike Testing Jul - Aug 2025/10. new new amsi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. new new amsi"
+            }
+          },
+          {
+            "id": "4e4576309f2dafb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11 Cobalt Testing MAR-APR2025/6. bypass-pipe.c - artifact kit - OPTEV-RT Modification.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "6. bypass-pipe.c - artifact kit - OPTEV-RT Modification"
+            }
+          },
+          {
+            "id": "935b00de9e0b492d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00- Learning & Research/01- Certifications/04- Offensive Security Experienced Penetration Tester (OSEP)/2.0 Operating System and Programming Theory/2.2 Windows Concepts/2.2.1. Windows On Windows.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.2.1. Windows On Windows"
+            }
+          },
+          {
+            "id": "2a55436edcd21958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11.1 Cobalt Strike Testing Jul - Aug 2025/8. modifying compress.ps1 with new amsi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. modifying compress.ps1 with new amsi"
+            }
+          },
+          {
+            "id": "1f7eda090d444c53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontier Technology - OPTEVFOR/Tool Approval/firefox_decrypt.py.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "firefox_decrypt.py"
+            }
+          },
+          {
+            "id": "223108927e6136ac",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
+          },
+          {
+            "id": "dd942199567dff7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Frontier Technology - OPTEVFOR/Tool Approval/MongoCLI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MongoCLI"
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "765e78853dc87659",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8f3d8de3100960e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c39f45edc06e85ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9a018b8eeb64ebcc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "192.168.6",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2000453c1079a7ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 702.5
+  },
+  "right": {
+    "id": "eaebd4a33bd06995",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c8617f944c9c8ea",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d6a728536233a67",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "94. Learning & Research/Certifications/Offensive Security Web Assessor - OSWA/23. OSA-WEB-200/Week 7 - Server-side Request Forgery.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Week 7 - Server-side Request Forgery"
+            }
+          },
+          {
+            "id": "bb9e890c7516087c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "94. Learning & Research/Certifications/Offensive Security Web Assessor - OSWA/23. OSA-WEB-200/Week 7 - Server-side Request Forgery.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Week 7 - Server-side Request Forgery"
+            }
+          },
+          {
+            "id": "c3613bfd45928973",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c6e5c3e219cfbfca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "94. Learning & Research/Certifications/Offensive Security Web Assessor - OSWA/23. OSA-WEB-200/Week 7 - Server-side Request Forgery.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Week 7 - Server-side Request Forgery"
+            }
+          },
+          {
+            "id": "37c1c4b9db3daf01",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "9469f05c03083946",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "4256754acaf17384",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0362e61cf0e9aead",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ab45927a3a5547e5",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "aa36c80e0bc9bc11",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "03af9be1f0c1f34e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "d6ff5637e2fe3f5d",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0cdd78be2b69ad37",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "35f92766dac7dda1",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "96b1f3eaefe3da4e",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
+          }
+        ],
+        "currentTab": 14
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dd942199567dff7f",
+  "lastOpenFiles": [
+    "Frontier Technology - OPTEVFOR/Tool Approval/firefox_decrypt.py.md",
+    "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11.1 Cobalt Strike Testing Jul - Aug 2025/packaging up.md",
+    "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11 Cobalt Testing MAY2025 - Refresh/15. Zip Up.md",
+    "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11 Cobalt Testing MAY2025 - Refresh/AMSI Notes.md",
+    "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11 Cobalt Testing MAY2025 - Refresh/16. Final Build - Gold Image Testing.md",
+    "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11 Cobalt Testing MAR-APR2025/20. 4.11 Cobalt strike ChangeLog for OPTEVRT.md",
+    "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11.1 Cobalt Strike Testing Jul - Aug 2025/6. testing Scripted Web Delivery.md",
+    "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11.1 Cobalt Strike Testing Jul - Aug 2025/8. modifying compress.ps1 with new amsi.md",
+    "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11.1 Cobalt Strike Testing Jul - Aug 2025/7. artifact kit working - bypass defender.md",
+    "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11.1 Cobalt Strike Testing Jul - Aug 2025/10. new new amsi.md",
+    "HackTheBox/HTB Misc/htb_pro_Labs/offshore/3. 172.16.1.36 -CORP-WSADM/Initial Access.md",
+    "00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/27. 09MAY2025 OffSec Meeting/Solarmedical/notes.md",
+    "HackTheBox/HTB ProLabs/Off Shore/2nd Domain Discovery/DC03.ADMIN.OFFSHORE.COM to MS02.CLIENT.OFFSHORE.COM.md",
+    "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/File Changes 30JAN2025/2. compress.ps1 - resource kit.md",
+    "HackTheBox/HTB ProLabs/Off Shore/2. 172.16.1.30 - CORP-MS01/1. initial Access.md",
+    "00- Learning & Research/02- Courses/TCM Priviliege Escalation/2. TCM Linux Privilege Escalation/TCM Linux Privilege Escalation Notes.md",
+    "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11 Cobalt Testing MAR-APR2025/7. compress.ps1 - resource kit - OPTEV-RT Modification.md",
+    "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11 Cobalt Testing MAR-APR2025/8. build arsenal_kit.sh.md",
+    "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11 Cobalt Testing MAR-APR2025/amsi info - chatgpt.md",
+    "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11 Cobalt Testing MAR-APR2025/16. arsenal-kit-mod.py - CLEAN VERSION - AV BYPASS TESTING.md",
+    "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11 Cobalt Testing MAR-APR2025/14. arsenal-kit-mod.py - CLEAN VERSION.md",
+    "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11.1 Cobalt Strike Testing Jul - Aug 2025/9. final testing.md",
+    "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11.1 Cobalt Strike Testing Jul - Aug 2025/5. generating payloads.md",
+    "999. All Screenshots/Pasted image 20250903013356.png",
+    "999. All Screenshots/Pasted image 20250903012938.png",
+    "999. All Screenshots/Pasted image 20250903012905.png",
+    "999. All Screenshots/Pasted image 20250903012845.png",
+    "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11 Cobalt Testing MAY2025 - Refresh/9. 2nd Arsenal Kit Test - Defender Enabled - Resource & Artifact - Passed.md",
+    "999. All Screenshots/Pasted image 20250827010203.png",
+    "999. All Screenshots/Pasted image 20250827005947.png",
+    "999. All Screenshots/Pasted image 20250827005945.png",
+    "999. All Screenshots/Pasted image 20250827005704.png",
+    "999. All Screenshots/Pasted image 20250827004807.png",
+    "999. All Screenshots/Pasted image 20250826175128.png",
+    "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11.1 Cobalt Strike Testing Jul - Aug 2025/2. tested arsenal-kit-mod.py.md",
+    "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11 Cobalt Testing MAY2025 - Refresh/2. arsenal_kit.config modifications.md",
+    "Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11.1 Cobalt Strike Testing Jul - Aug 2025",
+    "Frontier Technology - OPTEVFOR/Untitled",
+    "00- Learning & Research/01- Certifications/04- Offensive Security Experienced Penetration Tester (OSEP)/3. Phishing with Microsoft Office/3.2 Executing Shellcode in Word Memory",
+    "00- Learning & Research/01- Certifications/04- Offensive Security Experienced Penetration Tester (OSEP)/3. Phishing with Microsoft Office/3.1 Microsoft Office Macros",
+    "00- Learning & Research/01- Certifications/04- Offensive Security Experienced Penetration Tester (OSEP)/3. Phishing with Microsoft Office",
+    "00- Learning & Research/01- Certifications/04- Offensive Security Experienced Penetration Tester (OSEP)/2.0 Operating System and Programming Theory/2.2 Windows Concepts",
+    "00- Learning & Research/01- Certifications/04- Offensive Security Experienced Penetration Tester (OSEP)/2.0 Operating System and Programming Theory/2.1 Programming Theory",
+    "00- Learning & Research/01- Certifications/04- Offensive Security Experienced Penetration Tester (OSEP)/2.0 Operating System and Programming Theory",
+    "00- Learning & Research/01- Certifications/04- Offensive Security Experienced Penetration Tester (OSEP)",
+    "00- Learning & Research/03- CTFs/HacktheBox Business 2025/Shadowtalk",
+    "Untitled.canvas",
+    "Ansible - Lab Environment setup/Cohabitation Injector Role/Untitled.canvas"
+  ]
+}

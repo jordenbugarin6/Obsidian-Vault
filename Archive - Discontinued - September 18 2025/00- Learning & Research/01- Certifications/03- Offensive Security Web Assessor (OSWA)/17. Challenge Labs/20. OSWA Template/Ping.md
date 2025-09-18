@@ -1,0 +1,10 @@
+```bash
+┌──(root💀gobots)-[17Feb2025 14:09:46]-[/opt/cobaltstrike/client]
+└─# ping construction    
+PING construction (192.168.114.88) 56(84) bytes of data.
+64 bytes from construction (192.168.114.88): icmp_seq=1 ttl=61 time=27.4 ms
+64 bytes from construction (192.168.114.88): icmp_seq=2 ttl=61 time=28.7 ms
+```
+
+[SCREENSHOT HERE]
+

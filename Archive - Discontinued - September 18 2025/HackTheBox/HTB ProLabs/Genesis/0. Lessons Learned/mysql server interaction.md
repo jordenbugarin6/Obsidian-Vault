@@ -1,0 +1,58 @@
+logging in to `mysql` server
+```bash
+┌──(root💀gobots)-[30May2024 12:30:05]-[/home/kali]                                                      
+└─# mysql -u root -psbtR5t7cq7PWE3AJ -h 10.10.110.10                                                                                                                                                        
+Welcome to the MariaDB monitor.  Commands end with ; or \g.                                                                                                                                                 
+Your MariaDB connection id is 40                                                                                                                                                                            
+Server version: 10.5.23-MariaDB-0+deb11u1 Debian 11                                                                       
+Copyright (c) 2000, 2018, Oracle, MariaDB Corporation Ab and others.                                               
+Type 'help;' or '\h' for help. Type '\c' to clear the current input statement. 
+
+MariaDB [(none)]> 
+MariaDB [(none)]> 
+```
+showing databases
+```bash
+MariaDB [users]> show databases;
++--------------------+
+| Database           |
++--------------------+
+| information_schema |
+| mysql              |
+| performance_schema |
+| users              |
++--------------------+
+4 rows in set (0.030 sec)
+```
+using users database
+```
+MariaDB [users]> use users;
+Database changed
+```
+showing tables in users database
+```
+MariaDB [users]> show tables;
++-----------------+
+| Tables_in_users |
++-----------------+
+| credentials     |
++-----------------+
+1 row in set (0.030 sec)
+```
+selecting all the credentials from the tables
+```
+MariaDB [users]> select * from credentials;
++-----------+--------------------+
+| name      | password           |
++-----------+--------------------+
+| mrb3n     | offshorerox!       |
+| egre55    | HADES_FTW123       |
+| MinatoTW  | Breakpoint_P41N    |
+| soti      | ThinkOUTSIDEtheBOX |
+| g0blin    | Holiday666         |
+| Mr_R3b00t | BURP_GOES_BRRRR!!  |
++-----------+--------------------+
+6 rows in set (0.029 sec)
+
+MariaDB [users]> 
+```

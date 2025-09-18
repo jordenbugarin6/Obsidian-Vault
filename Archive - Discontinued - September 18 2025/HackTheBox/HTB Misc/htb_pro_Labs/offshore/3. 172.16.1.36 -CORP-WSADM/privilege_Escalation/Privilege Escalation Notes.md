@@ -1,0 +1,1 @@
+-  Focusing on [[Penetration Testing v2/htb_Everything/htb_pro_Labs/offshore/3. 172.16.1.36 -CORP-WSADM/privilege_Escalation/PowerUp.ps1]] results, WCAssistantService

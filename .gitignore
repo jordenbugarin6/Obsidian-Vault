@@ -1,5 +1,5 @@
 # Ignore ONLY the archive (keep everything else)
-Archive - Discontinued - September 18 2025/
+# Archive - Discontinued - September 18 2025/
 
 # Optional: also ignore big binaries you don’t want in notes
 *.vmdk

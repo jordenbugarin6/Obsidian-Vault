@@ -1,0 +1,2 @@
+- VNCviewer is a huge attack vector and likely someway.
+- Meterpreter mimikatz

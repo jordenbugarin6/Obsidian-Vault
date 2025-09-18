@@ -1,0 +1,3 @@
+Both `WINDOWS` & `LINUX` main.yml's work solo but unable to combine them - spent way too long working on attempting to combine them. the issue occurs when attempting to combine both the linux `inventory.ini` requires the `become: yes` parameter to become root. However the Windows obviously doesnt have a root so this conflicts heavily and makes the playbook skip both linux and windows IP addresses
+
+![[Pasted image 20241018213820.png]]

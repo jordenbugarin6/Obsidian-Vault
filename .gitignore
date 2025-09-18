@@ -1,18 +1,16 @@
-# Ignore EVERYTHING by default
-*
-
-# Allow only what we want to track
-!.gitignore
-!Daily Tasks/**
-!Cheatsheets/**
-!Learning/**
-!Screenshots/**
-
-# (Optional) keep these too:
-#!Techniques Tactics & Procedures (TTP)/**
-
-# Never track these (safety)
+# Ignore ONLY the archive (keep everything else)
 Archive - Discontinued - September 18 2025/
+
+# Optional: also ignore big binaries you don’t want in notes
+*.vmdk
+*.iso
+*.ova
+*.zip
+*.7z
+*.tar
+*.gz
+*.mp4
+*.mov
 
 # Obsidian noise
 .obsidian/workspace

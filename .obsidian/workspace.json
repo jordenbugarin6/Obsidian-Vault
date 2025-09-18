@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "b15b6283ea28eadf",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8a0169cbb4dabdc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b4aa12b170092b3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c3b32cf595db9e6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "c42649af98ba7d03",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea11551b58eca479",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f3a446d66b69d6d2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6dfff1ad1d25ed5d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 462.5
+  },
+  "right": {
+    "id": "4e9f2572a2559ae6",
+    "type": "split",
+    "children": [
+      {
+        "id": "bd41677e015e2397",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0127739666e4ca0b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "create a link.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for create a link"
+            }
+          },
+          {
+            "id": "d7beacb1760a17dd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "create a link.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from create a link"
+            }
+          },
+          {
+            "id": "eb6442936abaefd5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7a0866f0f4656ecd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 483.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "ea11551b58eca479",
+  "lastOpenFiles": [
+    "README.md",
+    "Initial Scanning Checklist.md",
+    "Learning/test.md",
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Pinger 1of2/Notes.md",
+    "New Text Document.txt",
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Share Notez 1of2/Notes.md",
+    "Cheatsheets/Initial Scanning Checklist.md",
+    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.86 - SQL Injection - LCE/6. Initial Web Enum - SQL Injection MySQL - local.txt.md",
+    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.86 - SQL Injection - LCE/3. gobuster.md",
+    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.86 - SQL Injection - LCE/2. nmap.md",
+    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.86 - SQL Injection - LCE/1. ping.md",
+    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.80- Pinger box/zipProject.php testing.md",
+    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.80- Pinger box/1. ping.md",
+    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.65 - MedSecPay/6. Initial Web Enum.md",
+    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.65 - MedSecPay/5. Burpsuite Scan.md",
+    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.65 - MedSecPay/1. ping.md",
+    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/28. 3rd Exam Prep/1. Share Notez.md",
+    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/28. 3rd Exam Prep/4. Pinger Box.md",
+    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/28. 3rd Exam Prep/5. Kaleb Machine.md",
+    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/28. 3rd Exam Prep/3. Ninox.md",
+    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/28. 3rd Exam Prep/2. MedSecPay.md",
+    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/3. Glaucidium - SSRF - SSTI/2. SSTI/1. SSTI Discovery.md",
+    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/9. Construction - XSS - XSS to Rev Shell - Linux - Hard/5. Initial Enumeration.md",
+    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/9. Construction - XSS - XSS to Rev Shell - Linux - Hard/4. Burp Scan - XSS (Stored) - CSRF.md",
+    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/9. Construction - XSS - XSS to Rev Shell - Linux - Hard/3.5 Gobuster - 3000.md",
+    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/27. 09MAY2025 OffSec Meeting/Solarmedical/notes.md",
+    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/Running Methodology OSWA.md",
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Ninox",
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Pinger 1of2",
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Kaleb Machine 2of2",
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/MedSec Pay",
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Share Notez 1of2",
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918",
+    "Penetration Testing home/vm_Domain/screenshots/Pasted image 20230929145259.png",
+    "Penetration Testing home/vm_Domain/screenshots/Pasted image 20231005094424.png",
+    "Penetration Testing home/vm_Domain/screenshots/Pasted image 20231005094350.png",
+    "Penetration Testing home/vm_Domain/screenshots/Pasted image 20231005094240.png",
+    "Penetration Testing home/vm_Domain/screenshots/Pasted image 20231004132404.png",
+    "Penetration Testing home/vm_Domain/screenshots/Pasted image 20231002172935.png",
+    "Penetration Testing home/vm_Domain/screenshots/Pasted image 20231002172824.png",
+    "Penetration Testing home/vm_Domain/screenshots/Pasted image 20231002172644.png",
+    "Penetration Testing home/vm_Domain/screenshots/Pasted image 20231002165922.png",
+    "Penetration Testing home/vm_Domain/screenshots/Pasted image 20231002165907.png",
+    "Penetration Testing home/vm_Domain/screenshots",
+    "Penetration Testing home/vm_Domain/attack_Walkthroughs",
+    "Penetration Testing home/vm_Domain",
+    "Untitled.canvas"
+  ]
+}

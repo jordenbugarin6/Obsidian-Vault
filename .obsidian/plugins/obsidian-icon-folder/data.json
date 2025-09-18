@@ -54,9 +54,9 @@
   "Penetration Testing home": "RaClockwork",
   "Archive (Discontinued 18SEP2025)": "SiInternetarchive",
   "Archive - Discontinued - September 18 2025": "SiInternetarchive",
-  "01-Learning": "RaBrainFreeze",
-  "01-Learning/Certified Information Systems Security Professional (CISSP)": "RaShield",
-  "01-Learning/Certified Red Team Operator": "SiIbeacon",
-  "01-Learning/Offensive Security Certified Professional (OSCP)": "RaSpiralShell",
-  "01-Learning/Offensive Security Web Assessor (OSWA)": "SiWeightsandbiases"
+  "Learning": "RaBrainFreeze",
+  "Learning/Certified Information Systems Security Professional (CISSP)": "RaShield",
+  "Learning/Offensive Security Certified Professional (OSCP)": "RaSpiralShell",
+  "Learning/Offensive Security Web Assessor (OSWA)": "SiWeightsandbiases",
+  "Learning/Certified Red Team Operator": "SiIbeacon"
 }

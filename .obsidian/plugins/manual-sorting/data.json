@@ -2,41 +2,13 @@
   "customFileOrder": {
     "/": [
       "README.md",
-      "01-Learning",
+      "Learning",
       "Daily Tasks",
       "Techniques Tactics & Procedures (TTP)",
       "Cheatsheets",
       "Organizational Misc",
       "Screenshots",
       "Archive - Discontinued - September 18 2025"
-    ],
-    "01-Learning": [
-      "01-Learning/Offensive Security Certified Professional (OSCP)",
-      "01-Learning/Certified Red Team Operator",
-      "01-Learning/Offensive Security Web Assessor (OSWA)",
-      "01-Learning/Certified Information Systems Security Professional (CISSP)"
-    ],
-    "01-Learning/Certified Information Systems Security Professional (CISSP)": [],
-    "01-Learning/Certified Red Team Operator": [],
-    "01-Learning/Offensive Security Certified Professional (OSCP)": [],
-    "01-Learning/Offensive Security Web Assessor (OSWA)": [
-      "01-Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918"
-    ],
-    "01-Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918": [
-      "01-Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Share Notez 1of2",
-      "01-Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/MedSec Pay",
-      "01-Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Ninox",
-      "01-Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Pinger 1of2",
-      "01-Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Kaleb Machine 2of2"
-    ],
-    "01-Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Kaleb Machine 2of2": [],
-    "01-Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/MedSec Pay": [],
-    "01-Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Ninox": [],
-    "01-Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Pinger 1of2": [
-      "01-Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Pinger 1of2/Notes.md"
-    ],
-    "01-Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Share Notez 1of2": [
-      "01-Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Share Notez 1of2/Notes.md"
     ],
     "Archive - Discontinued - September 18 2025": [
       "Archive - Discontinued - September 18 2025/00- Learning & Research",
@@ -8060,6 +8032,35 @@
     "Daily Tasks": [
       "Daily Tasks/20250918.md",
       "Daily Tasks/20250911.md"
+    ],
+    "Learning": [
+      "Learning/Offensive Security Certified Professional (OSCP)",
+      "Learning/Certified Red Team Operator",
+      "Learning/Offensive Security Web Assessor (OSWA)",
+      "Learning/Certified Information Systems Security Professional (CISSP)"
+    ],
+    "Learning/Certified Information Systems Security Professional (CISSP)": [],
+    "Learning/Certified Red Team Operator": [],
+    "Learning/Offensive Security Certified Professional (OSCP)": [],
+    "Learning/Offensive Security Web Assessor (OSWA)": [
+      "Learning/Offensive Security Web Assessor (OSWA)/sql notes here.md",
+      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918"
+    ],
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918": [
+      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Share Notez 1of2",
+      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/MedSec Pay",
+      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Ninox",
+      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Pinger 1of2",
+      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Kaleb Machine 2of2"
+    ],
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Kaleb Machine 2of2": [],
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/MedSec Pay": [],
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Ninox": [],
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Pinger 1of2": [
+      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Pinger 1of2/Notes.md"
+    ],
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Share Notez 1of2": [
+      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Share Notez 1of2/Notes.md"
     ],
     "Organizational Misc": [
       "Organizational Misc/Screenshot Guidance.md",

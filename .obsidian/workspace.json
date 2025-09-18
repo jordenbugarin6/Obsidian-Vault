@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cheatsheets/Initial Scanning Checklist.md",
+                "file": "Cheatsheets/SQL Injection/gerbsec.com-sql-injection-cheatsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Initial Scanning Checklist"
+              "title": "gerbsec.com-sql-injection-cheatsheet"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cheatsheets/Initial Scanning Checklist.md",
+                "file": "Cheatsheets/SQL Injection/gerbsec.com-sql-injection-cheatsheet.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Initial Scanning Checklist"
+              "title": "Outline of gerbsec.com-sql-injection-cheatsheet"
             }
           }
         ],
@@ -172,17 +172,21 @@
   },
   "active": "ea11551b58eca479",
   "lastOpenFiles": [
+    "Cheatsheets/SQL Injection",
     "Organizational Misc/GitHub Guidance-for-Notes.md",
+    "Cheatsheets/SQL Injection/gerbsec.com-sql-injection-cheatsheet.md",
+    "Techniques Tactics & Procedures (TTP)/SQL Injection",
+    "README.md",
+    "Organizational Misc/Screenshot Guidance.md",
+    "Cheatsheets/Initial Scanning Checklist.md",
     "Daily Tasks/20250911.md",
     "Learning/Offensive Security Web Assessor (OSWA)/sql notes here.md",
     "Archive - Discontinued - September 18 2025/Frontier Technology - OPTEVFOR/Cobaltstrike Testing/4.11 Cobalt Testing MAY2025 - Refresh/1. update.md",
-    "README.md",
     "Initial Scanning Checklist.md",
     "Learning/test.md",
-    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Pinger 1of2/Notes.md",
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Pinger 1of2/Notes.md",
     "New Text Document.txt",
-    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Share Notez 1of2/Notes.md",
-    "Cheatsheets/Initial Scanning Checklist.md",
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Share Notez 1of2/Notes.md",
     "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.86 - SQL Injection - LCE/6. Initial Web Enum - SQL Injection MySQL - local.txt.md",
     "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.86 - SQL Injection - LCE/3. gobuster.md",
     "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.86 - SQL Injection - LCE/2. nmap.md",
@@ -196,15 +200,12 @@
     "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/28. 3rd Exam Prep/4. Pinger Box.md",
     "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/28. 3rd Exam Prep/5. Kaleb Machine.md",
     "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/28. 3rd Exam Prep/3. Ninox.md",
-    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/28. 3rd Exam Prep/2. MedSecPay.md",
-    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/3. Glaucidium - SSRF - SSTI/2. SSTI/1. SSTI Discovery.md",
-    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/9. Construction - XSS - XSS to Rev Shell - Linux - Hard/5. Initial Enumeration.md",
-    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Ninox",
-    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Pinger 1of2",
-    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Kaleb Machine 2of2",
-    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/MedSec Pay",
-    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918/Share Notez 1of2",
-    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 20250918",
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Ninox",
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Pinger 1of2",
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Kaleb Machine 2of2",
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/MedSec Pay",
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Share Notez 1of2",
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19",
     "Penetration Testing home/vm_Domain/screenshots/Pasted image 20230929145259.png",
     "Penetration Testing home/vm_Domain/screenshots/Pasted image 20231005094424.png",
     "Penetration Testing home/vm_Domain/screenshots/Pasted image 20231005094350.png",
@@ -217,7 +218,6 @@
     "Penetration Testing home/vm_Domain/screenshots/Pasted image 20231002165907.png",
     "Penetration Testing home/vm_Domain/screenshots",
     "Penetration Testing home/vm_Domain/attack_Walkthroughs",
-    "Penetration Testing home/vm_Domain",
     "Untitled.canvas"
   ]
 }

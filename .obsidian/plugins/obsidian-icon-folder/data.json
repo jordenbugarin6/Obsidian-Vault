@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "SiPostgresql",
       "SiInternetarchive",
       "RaClockwork",
       "SiPowershell",
-      "RaBladeBite",
-      "RaCrown"
+      "RaBladeBite"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,26 +37,12 @@
   "Daily Tasks": "SiCheckmarx",
   "Screenshots": "RaSurveillanceCamera",
   "Techniques Tactics & Procedures (TTP)": "RaWrench",
-  "Techniques Tactics & Procedures (TTP)/C2 Session Passing": "↔",
-  "Techniques Tactics & Procedures (TTP)/Network Scanning": "🌐",
-  "Techniques Tactics & Procedures (TTP)/Basic Port Enumeration": "SiGitconnected",
   "Cheatsheets": "RaLightningBolt",
-  "Techniques Tactics & Procedures (TTP)/Web Applications": "SiBurpsuite",
-  "Cheatsheets/Initial Scanning Checklist.md": "SiCheckmarx",
-  "Techniques Tactics & Procedures (TTP)/Pivoting": "RaReverse",
   "Organizational Misc": "RaHelp",
-  "Cheatsheets/Commands - Linux": "SiLinux",
-  "Techniques Tactics & Procedures (TTP)/Initial Access": "RaBatteredAxe",
-  "Techniques Tactics & Procedures (TTP)/PrivEsc": "RaCrown",
-  "Techniques Tactics & Procedures (TTP)/Exfiltration": "RaBladeBite",
   "Penetration Testing home": "RaClockwork",
   "Archive (Discontinued 18SEP2025)": "SiInternetarchive",
   "Archive - Discontinued - September 18 2025": "SiInternetarchive",
   "Learning": "RaBrainFreeze",
-  "Learning/Certified Information Systems Security Professional (CISSP)": "RaShield",
-  "Learning/Offensive Security Certified Professional (OSCP)": "RaSpiralShell",
-  "Learning/Offensive Security Web Assessor (OSWA)": "SiWeightsandbiases",
-  "Learning/Certified Red Team Operator": "SiIbeacon",
-  "Cheatsheets/Commands - Windows": "SiWindowsxp",
-  "Cheatsheets/Commands - Windows/Commands - Powershell": "SiPowershell"
+  "Cheatsheets/Commands - Windows/Commands - Powershell": "SiPowershell",
+  "Archive - Discontinued - 2025SEP18": "SiInternetarchive"
 }

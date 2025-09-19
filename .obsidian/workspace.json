@@ -25,12 +25,14 @@
             "id": "5c0efc77a29420e0",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic16.png"
+                "file": "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.62 - Share Notez 1of2/Enumeration.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "ss-20250919-OSWA-Exam-ShareNotez-pic16"
+              "icon": "lucide-file",
+              "title": "Enumeration"
             }
           },
           {
@@ -133,7 +135,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 462.5
+    "width": 405.5041847229004
   },
   "right": {
     "id": "4e9f2572a2559ae6",
@@ -197,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic16.png",
+                "file": "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.62 - Share Notez 1of2/Enumeration.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ss-20250919-OSWA-Exam-ShareNotez-pic16"
+              "title": "Outline of Enumeration"
             }
           }
         ],
@@ -227,13 +229,14 @@
   },
   "active": "5c0efc77a29420e0",
   "lastOpenFiles": [
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.62 - Share Notez 1of2/Notes.md",
+    "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic16.png",
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.62 - Share Notez 1of2/Enumeration.md",
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/9. Construction - XSS - XSS to Rev Shell - Linux - Hard/5. Initial Enumeration.md",
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/12. Construction - Post OffSec Meeting/Post Enum.md",
-    "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic16.png",
     "Organizational Misc/GitHub Guidance-for-Notes.md",
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/28. 3rd Exam Prep/1. Share Notez.md",
     "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic14.png",
-    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.62 - Share Notez 1of2/Enumeration.md",
     "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic15.png",
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/Running Methodology OSWA.md",
     "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic13.png",
@@ -252,7 +255,6 @@
     "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic9.png",
     "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic8.png",
     "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic7.png",
-    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.62 - Share Notez 1of2/Notes.md",
     "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/IP List.md",
     "Learning/Offensive Security Web Assessor (OSWA)/testing.md",
     "test.md",

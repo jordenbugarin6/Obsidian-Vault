@@ -62,7 +62,6 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/04- Offensive Security Experienced Penetration Tester (OSEP)",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/Certified Information Systems Security Professional - CISSP",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/Kali Linux Certified Professional - KLCP",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/Offsensive Security Wireless Practitioner - OSWP",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/Web Security Academy - BSCP"
     ],
@@ -121,17 +120,8 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Fail Mar 2023/192.168.119.112/screenshots/15.2 union all select 6 error.png"
     ],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Fail Mar 2023/AD set": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Fail Mar 2023/AD set/192.168.119.100 - DC01",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Fail Mar 2023/AD set/192.168.119.101 - MS01",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Fail Mar 2023/AD set/192.168.119.102 - UNK",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Fail Mar 2023/AD set/working notes.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Fail Mar 2023/AD set/192.168.119.100 - DC01": [],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Fail Mar 2023/AD set/192.168.119.101 - MS01": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Fail Mar 2023/AD set/192.168.119.101 - MS01/MS01 screenshots"
-    ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Fail Mar 2023/AD set/192.168.119.101 - MS01/MS01 screenshots": [],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Fail Mar 2023/AD set/192.168.119.102 - UNK": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/1. 192.168.118.110 - done - extra screenshots in here",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/2. 192.168.118.114 - done",
@@ -149,25 +139,20 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/1. 192.168.118.110 - done - extra screenshots in here/screenshots/scripts folder.png"
     ],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/2. 192.168.118.114 - done": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/2. 192.168.118.114 - done/notes",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/2. 192.168.118.114 - done/screenshot actual"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/2. 192.168.118.114 - done/notes": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/2. 192.168.118.114 - done/screenshot actual": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/2. 192.168.118.114 - done/screenshot actual/ftp 2.png",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/2. 192.168.118.114 - done/screenshot actual/pip install jsonargparse.png",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/2. 192.168.118.114 - done/screenshot actual/power up modifiable service files.png"
     ],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/3. 192.168.118.124 - nope": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/3. 192.168.118.124 - nope/notes",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/3. 192.168.118.124 - nope/notes.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/3. 192.168.118.124 - nope/notes": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/AD Set": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/AD Set/172.16.118.100",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/AD Set/172.16.118.102",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/AD Set/MS01 192.168.118.101",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/AD Set/screenshots",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/AD Set/Untitled 2 4.md"
     ],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/AD Set/172.16.118.100": [
@@ -200,15 +185,11 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/AD Set/MS01 192.168.118.101/screenshots/workflowcallbackservice.png",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/AD Set/MS01 192.168.118.101/screenshots/ws02 carbon login page.png"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Exam Pass  Apr2023/AD Set/screenshots": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/- notes10.11.1.229",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/-10.11.1.14 - windows - BOB",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.5 - windows - finished",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.7 - windows - come back to",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.8 - parman",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.10 - parman",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.13 - windows - DISCO",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.20-.24",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.31 - windows",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.39- linux",
@@ -226,14 +207,12 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.133 - ghost - hardest box",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.146 - parman",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.209",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.217 - parman",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.220",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.221",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.223 - last",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.231 - mailman - nix - done",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.234 - core - nix - done",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.237 -mongodb sql - HUMBLE",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.246 - parman"
+      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.237 -mongodb sql - HUMBLE"
     ],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/- notes10.11.1.229": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/- notes10.11.1.229/screenshots",
@@ -277,13 +256,10 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/-10.11.1.14 - windows - BOB/screenshots/4. ACME.png"
     ],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.5 - windows - finished": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.5 - windows - finished/screenshots",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.5 - windows - finished/exploits.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.5 - windows - finished/notes.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.5 - windows - finished/priv esc.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.5 - windows - finished/screenshots": [],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.7 - windows - come back to": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.8 - parman": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.8 - parman/screenshots",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.8 - parman/linpeas.md",
@@ -293,11 +269,6 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.8 - parman/screenshots/2 sql injection line.png",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.8 - parman/screenshots/5 modified RCE working exploit.png"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.10 - parman": [],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.13 - windows - DISCO": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.13 - windows - DISCO/screenshots"
-    ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.13 - windows - DISCO/screenshots": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.20-.24": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.20-.24/AD Set Screenshots p2",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.20-.24/SV-FILE01 screenshots",
@@ -336,11 +307,9 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.39- linux/screenshots/4. credential login.png"
     ],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.44": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.44/screenshots",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.44/chickenscratch.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.44/notes.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.44/screenshots": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.50 - windows": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.50 - windows/screenshots",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.50 - windows/winpeas.md"
@@ -400,10 +369,8 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.73 - gamma/screenshots/LAST PRROF.TXT.png"
     ],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.75 - bruce - win - workin": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.75 - bruce - win - workin/screenshots",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.75 - bruce - win - workin/notes.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.75 - bruce - win - workin/screenshots": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.101 - break": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.101 - break/screenshots",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.101 - break/chickenscratch.md",
@@ -485,13 +452,10 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.209/screenshots/1. bruteforce login.png",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.209/screenshots/2. proof.txt.png"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.217 - parman": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.220": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.220/screenshots",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.220/chickenscratch.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.220/notes.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.220/screenshots": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.221": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.221/Untitled.md"
     ],
@@ -533,32 +497,15 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.237 -mongodb sql - HUMBLE/screenshots/6. linpeas exploits.png",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.237 -mongodb sql - HUMBLE/screenshots/7. proof.txt and ifconfig.png"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Pen-200 Labs/10.11.1.246 - parman": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Proving Grounds": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Proving Grounds/proving grounds",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Proving Grounds/proving grounds play",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Proving Grounds/proving grounds practice"
+      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Proving Grounds/proving grounds"
     ],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Proving Grounds/proving grounds": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Proving Grounds/proving grounds/1 evilbox-one - easy",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Proving Grounds/proving grounds/2 driftingblues6 - easy",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Proving Grounds/proving grounds/3 vegeta1 - easy"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Proving Grounds/proving grounds/1 evilbox-one - easy": [],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Proving Grounds/proving grounds/2 driftingblues6 - easy": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Proving Grounds/proving grounds/3 vegeta1 - easy": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Proving Grounds/proving grounds/3 vegeta1 - easy/notes.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Proving Grounds/proving grounds play": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Proving Grounds/proving grounds play/FunboxEasy - easy - 5 pts",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Proving Grounds/proving grounds play/FunboxRookie - NOT DONE - 5 pts"
-    ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Proving Grounds/proving grounds play/FunboxEasy - easy - 5 pts": [],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Proving Grounds/proving grounds play/FunboxRookie - NOT DONE - 5 pts": [],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Proving Grounds/proving grounds practice": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Proving Grounds/proving grounds practice/Charlotte - Intermediate - 20 pts"
-    ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/Proving Grounds/proving grounds practice/Charlotte - Intermediate - 20 pts": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/tjnull box list": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/tjnull box list/1 linux",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/1. OSCP/tjnull box list/2 windows"
@@ -785,16 +732,13 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/2. OSCP - Pass - Apr 12 2023/2. 192.168.118.114 - done/screenshot actual/sudo -l.png"
     ],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/2. OSCP - Pass - Apr 12 2023/3. 192.168.118.124 - nope": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/2. OSCP - Pass - Apr 12 2023/3. 192.168.118.124 - nope/notes",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/2. OSCP - Pass - Apr 12 2023/3. 192.168.118.124 - nope/chickenscratch.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/2. OSCP - Pass - Apr 12 2023/3. 192.168.118.124 - nope/notes.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/2. OSCP - Pass - Apr 12 2023/3. 192.168.118.124 - nope/notes": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/2. OSCP - Pass - Apr 12 2023/AD Set": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/2. OSCP - Pass - Apr 12 2023/AD Set/172.16.118.100",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/2. OSCP - Pass - Apr 12 2023/AD Set/172.16.118.102",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/2. OSCP - Pass - Apr 12 2023/AD Set/MS01 192.168.118.101",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/2. OSCP - Pass - Apr 12 2023/AD Set/screenshots",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/2. OSCP - Pass - Apr 12 2023/AD Set/Untitled 2 4.md"
     ],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/2. OSCP - Pass - Apr 12 2023/AD Set/172.16.118.100": [
@@ -871,7 +815,6 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/2. OSCP - Pass - Apr 12 2023/AD Set/MS01 192.168.118.101/screenshots/working proxy chains .102.png",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/2. OSCP - Pass - Apr 12 2023/AD Set/MS01 192.168.118.101/screenshots/ws02 carbon login page.png"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/01- Offensive Security Certified Professional (OSCP)/2. OSCP - Pass - Apr 12 2023/AD Set/screenshots": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender On"
@@ -885,52 +828,31 @@
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/1. Getting Started",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/2. Command _ Control",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/3. External Reconnaissance",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/4. Initial Compromise",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/5. Host Reconnaissance",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/6. Host Persistence",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/7. Host Privilege Escalation",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/8. Credential Theft - mimikatz",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/9. Password Cracking Tips _ Tricks",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/10. Domain Reconnaissance",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/11. User Impersonation",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/12. Lateral Movement",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/13. Session Passing",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/14. Pivoting",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/15. Data Protection API - Password Cracking",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/16. Kerberos",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/17. Active Directory Certificate Services",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/18. Abusing Group Policy",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/19 MS SQL Servers",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/20. Domain Dominance",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/21. Forest & Domain Trusts",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/22. Local Administrator Password Solution",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/23. Microsoft Defender Antivirus",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/24. Application Whitelisting",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/25. Data Hunting & Exfiltration",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/26. Extending Cobalt Strike",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/27. Exam Preparation",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/Certification",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/Screenshots",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/Lab Passwords.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/Untitled.md"
     ],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/1. Getting Started": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/1. Getting Started/immersive labs",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/1. Getting Started/2. what is opsec.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/1. Getting Started/3. primum non nocere.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/1. Getting Started/4. attack lifecycle.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/1. Getting Started/immersive labs": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/1. Getting Started/immersive labs/screenshots"
-    ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/1. Getting Started/immersive labs/screenshots": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/2. Command _ Control": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/2. Command _ Control/screenshots",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/2. Command _ Control/4. Pivot Listeners.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/2. Command _ Control/screenshots": [],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/3. External Reconnaissance": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/4. Initial Compromise": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/4. Initial Compromise/screenshots"
     ],
@@ -941,7 +863,6 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/4. Initial Compromise/screenshots/29. Beacon Demo.png"
     ],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/5. Host Reconnaissance": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/5. Host Reconnaissance/screenshots",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/5. Host Reconnaissance/2. Processes.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/5. Host Reconnaissance/3. Seatbelt.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/5. Host Reconnaissance/4. Screenshots.md",
@@ -949,55 +870,32 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/5. Host Reconnaissance/6. Clipboard.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/5. Host Reconnaissance/7. User Sessions.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/5. Host Reconnaissance/screenshots": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/6. Host Persistence": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/6. Host Persistence/screenshots",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/6. Host Persistence/1. Host Persistence.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/6. Host Persistence/2. Task Scheduler.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/6. Host Persistence/3. Startup Folder.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/6. Host Persistence/4. Registry AutoRun.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/6. Host Persistence/screenshots": [],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/7. Host Privilege Escalation": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/7. Host Privilege Escalation/screenshots"
-    ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/7. Host Privilege Escalation/screenshots": [],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/8. Credential Theft - mimikatz": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/8. Credential Theft - mimikatz/screenshots"
-    ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/8. Credential Theft - mimikatz/screenshots": [],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/9. Password Cracking Tips _ Tricks": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/9. Password Cracking Tips _ Tricks/screenshots"
-    ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/9. Password Cracking Tips _ Tricks/screenshots": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/10. Domain Reconnaissance": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/10. Domain Reconnaissance/screenshots",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/10. Domain Reconnaissance/ADSearch.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/10. Domain Reconnaissance/PowerView.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/10. Domain Reconnaissance/SharpView.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/10. Domain Reconnaissance/screenshots": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/11. User Impersonation": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/11. User Impersonation/screenshots",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/11. User Impersonation/2. Pass the Hash.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/11. User Impersonation/6. Token Store.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/11. User Impersonation/7. Make Token.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/11. User Impersonation/screenshots": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/12. Lateral Movement": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/12. Lateral Movement/screenshots",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/12. Lateral Movement/3. PsExec.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/12. Lateral Movement/6. DCOM.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/12. Lateral Movement/screenshots": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/13. Session Passing": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/13. Session Passing/screenshots",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/13. Session Passing/1. Session Passing.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/13. Session Passing/2. Beacon Passing.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/13. Session Passing/3. Foreign Listener.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/13. Session Passing/4. Spawn _ inject.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/13. Session Passing/screenshots": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/14. Pivoting": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/14. Pivoting/screenshots",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/14. Pivoting/1. SOCKS Proxies.md",
@@ -1011,10 +909,6 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/14. Pivoting/screenshots/b smb payload.png",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/14. Pivoting/screenshots/PREREQUISITES.png"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/15. Data Protection API - Password Cracking": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/15. Data Protection API - Password Cracking/screenshots"
-    ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/15. Data Protection API - Password Cracking/screenshots": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/16. Kerberos": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/16. Kerberos/screenshots",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/16. Kerberos/1. Kerberos.md",
@@ -1030,29 +924,13 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/16. Kerberos/screenshots/GENERAL FLOW THUS FAR.png",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/16. Kerberos/screenshots/SPN EXAMPLE.png"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/17. Active Directory Certificate Services": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/17. Active Directory Certificate Services/screenshots"
-    ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/17. Active Directory Certificate Services/screenshots": [],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/18. Abusing Group Policy": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/18. Abusing Group Policy/screenshots"
-    ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/18. Abusing Group Policy/screenshots": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/19 MS SQL Servers": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/19 MS SQL Servers/sceenshots",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/19 MS SQL Servers/1. MS SQL Servers.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/19 MS SQL Servers/sceenshots": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/20. Domain Dominance": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/20. Domain Dominance/screenshots",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/20. Domain Dominance/2. Silver Tickets.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/20. Domain Dominance/3. Golden Tickets.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/20. Domain Dominance/screenshots": [],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/21. Forest & Domain Trusts": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/21. Forest & Domain Trusts/screenshots"
-    ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/21. Forest & Domain Trusts/screenshots": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/22. Local Administrator Password Solution": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/22. Local Administrator Password Solution/screenshots"
     ],
@@ -1065,23 +943,6 @@
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/23. Microsoft Defender Antivirus/screenshots": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/23. Microsoft Defender Antivirus/screenshots/Pasted image 20230821184226.png"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/24. Application Whitelisting": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/24. Application Whitelisting/screenshots"
-    ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/24. Application Whitelisting/screenshots": [],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/25. Data Hunting & Exfiltration": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/25. Data Hunting & Exfiltration/screenshots"
-    ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/25. Data Hunting & Exfiltration/screenshots": [],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/26. Extending Cobalt Strike": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/26. Extending Cobalt Strike/screenshots"
-    ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/26. Extending Cobalt Strike/screenshots": [],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/27. Exam Preparation": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/27. Exam Preparation/screenshots"
-    ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/27. Exam Preparation/screenshots": [],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/Certification": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/Screenshots": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/Screenshots/Pasted image 20230822173002.png",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/02- Certified Red Team Operator (CRTO)/CRTO - Windows Defender Off/Course Material/Screenshots/Pasted image 20230822173337.png",
@@ -2047,8 +1908,7 @@
     ],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/6. Piano Protocol - SQL Injection - LFI - SSH": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/6. Piano Protocol - SQL Injection - LFI - SSH/1. Initial Enumeration",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/6. Piano Protocol - SQL Injection - LFI - SSH/2. Post Initial Enumeration - proof.txt",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/6. Piano Protocol - SQL Injection - LFI - SSH/3. Piano Protocol - Blind"
+      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/6. Piano Protocol - SQL Injection - LFI - SSH/2. Post Initial Enumeration - proof.txt"
     ],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/6. Piano Protocol - SQL Injection - LFI - SSH/1. Initial Enumeration": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/6. Piano Protocol - SQL Injection - LFI - SSH/1. Initial Enumeration/1. ping.md",
@@ -2059,10 +1919,8 @@
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/6. Piano Protocol - SQL Injection - LFI - SSH/2. Post Initial Enumeration - proof.txt": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/6. Piano Protocol - SQL Injection - LFI - SSH/2. Post Initial Enumeration - proof.txt/siteadmin-dev.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/6. Piano Protocol - SQL Injection - LFI - SSH/3. Piano Protocol - Blind": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/7. Screamin Firehawk - XSS - CSRF - SQLMAP (HARD)": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/7. Screamin Firehawk - XSS - CSRF - SQLMAP (HARD)/1. Initial Enumeration",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/7. Screamin Firehawk - XSS - CSRF - SQLMAP (HARD)/2. Screamin FireHawk Blind"
+      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/7. Screamin Firehawk - XSS - CSRF - SQLMAP (HARD)/1. Initial Enumeration"
     ],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/7. Screamin Firehawk - XSS - CSRF - SQLMAP (HARD)/1. Initial Enumeration": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/7. Screamin Firehawk - XSS - CSRF - SQLMAP (HARD)/1. Initial Enumeration/1. ping.md",
@@ -2074,7 +1932,6 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/7. Screamin Firehawk - XSS - CSRF - SQLMAP (HARD)/1. Initial Enumeration/7. CSRF testing.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/7. Screamin Firehawk - XSS - CSRF - SQLMAP (HARD)/1. Initial Enumeration/8. CSRF local.txt & SQLMAP Proof.txt - New IP New DAY.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/7. Screamin Firehawk - XSS - CSRF - SQLMAP (HARD)/2. Screamin FireHawk Blind": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/8. Solarmedical - SQL - COMMAND INJECTION - Windows": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/8. Solarmedical - SQL - COMMAND INJECTION - Windows/Initial Enumeration",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/17. Challenge Labs/8. Solarmedical - SQL - COMMAND INJECTION - Windows/Post Enumeration"
@@ -2136,7 +1993,6 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/19. Final Challenge Labs - Before Test/1. Asio - Windows - LFI - SQLMAP OS-SHELL",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/19. Final Challenge Labs - Before Test/2. Bambi - Linux - WFUZZ - LCE",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/19. Final Challenge Labs - Before Test/3. Bubo - Linux - IDOR - RCE",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/19. Final Challenge Labs - Before Test/4. Glaucidium - Linux - X - X",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/19. Final Challenge Labs - Before Test/5. Jubula - Linux - X -X"
     ],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/19. Final Challenge Labs - Before Test/1. Asio - Windows - LFI - SQLMAP OS-SHELL": [
@@ -2184,7 +2040,6 @@
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/19. Final Challenge Labs - Before Test/3. Bubo - Linux - IDOR - RCE/Post": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/19. Final Challenge Labs - Before Test/3. Bubo - Linux - IDOR - RCE/Post/1. Post.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/19. Final Challenge Labs - Before Test/4. Glaucidium - Linux - X - X": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/19. Final Challenge Labs - Before Test/5. Jubula - Linux - X -X": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/19. Final Challenge Labs - Before Test/5. Jubula - Linux - X -X/0. Paths.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/19. Final Challenge Labs - Before Test/5. Jubula - Linux - X -X/1. ping.md",
@@ -2209,8 +2064,7 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/21. OSWA Exam - Failed/0. Machines.md"
     ],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/21. OSWA Exam - Failed/192.168.61.62 - Linux - XSS - X": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/21. OSWA Exam - Failed/192.168.61.62 - Linux - XSS - X/Initial",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/21. OSWA Exam - Failed/192.168.61.62 - Linux - XSS - X/Post"
+      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/21. OSWA Exam - Failed/192.168.61.62 - Linux - XSS - X/Initial"
     ],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/21. OSWA Exam - Failed/192.168.61.62 - Linux - XSS - X/Initial": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/21. OSWA Exam - Failed/192.168.61.62 - Linux - XSS - X/Initial/1. ping.md",
@@ -2220,7 +2074,6 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/21. OSWA Exam - Failed/192.168.61.62 - Linux - XSS - X/Initial/5. Burp Scan.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/21. OSWA Exam - Failed/192.168.61.62 - Linux - XSS - X/Initial/6. Initial Machine Enumeration.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/21. OSWA Exam - Failed/192.168.61.62 - Linux - XSS - X/Post": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/21. OSWA Exam - Failed/192.168.61.65 - Linux -X -X": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/21. OSWA Exam - Failed/192.168.61.65 - Linux -X -X/1. ping.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/21. OSWA Exam - Failed/192.168.61.65 - Linux -X -X/2. nmap.md",
@@ -2382,14 +2235,12 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/24. Proving Ground Play Machines/6. UC404 - Command Injection/Untitled 3.md"
     ],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.62",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.65 - MedSecPay",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.68",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.80- Pinger box",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.86 - SQL Injection - LCE",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/IP's all.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.62": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.65 - MedSecPay": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.65 - MedSecPay/1. ping.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/25. OSWA Exam 2/192.168.66.65 - MedSecPay/2. nmap.md",
@@ -2496,7 +2347,6 @@
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/Certified Information Systems Security Professional - CISSP/CISSP Exam Cram Full Course (All 8 Domains)/Domain 1 Security & Risk Management": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/Certified Information Systems Security Professional - CISSP/CISSP Exam Cram Full Course (All 8 Domains)/Domain 1 Security & Risk Management/1. Some key areas.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/Kali Linux Certified Professional - KLCP": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/Offsensive Security Wireless Practitioner - OSWP": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/Offsensive Security Wireless Practitioner - OSWP/1. IEEE 802.11",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/01- Certifications/Offsensive Security Wireless Practitioner - OSWP/2. Wi-Fi Encryption",
@@ -2681,14 +2531,12 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/HitconCTF 2024"
     ],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/CSAW CTF": [
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/CSAW CTF/Crypto",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/CSAW CTF/OSINT",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/CSAW CTF/Web",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/CSAW CTF/cryptopals.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/CSAW CTF/login.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/CSAW CTF/Pwn.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/CSAW CTF/Crypto": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/CSAW CTF/OSINT": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/CSAW CTF/OSINT/Literally 1984.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/CSAW CTF/OSINT/Mystery.md",
@@ -2713,7 +2561,6 @@
     ],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/HitconCTF 2024": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/HitconCTF 2024/1. ImagikaTragicka - web, misc",
-      "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/HitconCTF 2024/2. Illustrous",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/HitconCTF 2024/3. RClonE",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/HitconCTF 2024/HitconCTF 2024 (Start Here).md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/HitconCTF 2024/no-exit-room.md",
@@ -2728,7 +2575,6 @@
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/HitconCTF 2024/1. ImagikaTragicka - web, misc/5. White Flag.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/HitconCTF 2024/1. ImagikaTragicka - web, misc/6. Docker shutdown.md"
     ],
-    "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/HitconCTF 2024/2. Illustrous": [],
     "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/HitconCTF 2024/3. RClonE": [
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/HitconCTF 2024/3. RClonE/0. docker-compose.yml.md",
       "Archive - Discontinued - 2025SEP18/00- Learning & Research/03- CTFs/HitconCTF 2024/3. RClonE/1. Docker Startup_ALL.md"
@@ -2756,7 +2602,6 @@
     "Archive - Discontinued - 2025SEP18/01- Tactics, Techniques, & Procedures (TTP)": [
       "Archive - Discontinued - 2025SEP18/01- Tactics, Techniques, & Procedures (TTP)/01- Port Enumeration",
       "Archive - Discontinued - 2025SEP18/01- Tactics, Techniques, & Procedures (TTP)/02- Establishing a Foothold",
-      "Archive - Discontinued - 2025SEP18/01- Tactics, Techniques, & Procedures (TTP)/03- Linux",
       "Archive - Discontinued - 2025SEP18/01- Tactics, Techniques, & Procedures (TTP)/04- Windows",
       "Archive - Discontinued - 2025SEP18/01- Tactics, Techniques, & Procedures (TTP)/05- Antimalware Scan Interface (AMSI)",
       "Archive - Discontinued - 2025SEP18/01- Tactics, Techniques, & Procedures (TTP)/Initial Foothold Command Checklist.md",
@@ -2774,7 +2619,6 @@
     "Archive - Discontinued - 2025SEP18/01- Tactics, Techniques, & Procedures (TTP)/02- Establishing a Foothold": [
       "Archive - Discontinued - 2025SEP18/01- Tactics, Techniques, & Procedures (TTP)/02- Establishing a Foothold/01- SSH Key Persistence.md"
     ],
-    "Archive - Discontinued - 2025SEP18/01- Tactics, Techniques, & Procedures (TTP)/03- Linux": [],
     "Archive - Discontinued - 2025SEP18/01- Tactics, Techniques, & Procedures (TTP)/04- Windows": [
       "Archive - Discontinued - 2025SEP18/01- Tactics, Techniques, & Procedures (TTP)/04- Windows/Process killing.md"
     ],
@@ -2790,8 +2634,7 @@
     ],
     "Archive - Discontinued - 2025SEP18/03- Tools": [
       "Archive - Discontinued - 2025SEP18/03- Tools/01- C2 Frameworks",
-      "Archive - Discontinued - 2025SEP18/03- Tools/02- Network Scanning",
-      "Archive - Discontinued - 2025SEP18/03- Tools/03- Password Cracking"
+      "Archive - Discontinued - 2025SEP18/03- Tools/02- Network Scanning"
     ],
     "Archive - Discontinued - 2025SEP18/03- Tools/01- C2 Frameworks": [
       "Archive - Discontinued - 2025SEP18/03- Tools/01- C2 Frameworks/1. Cobaltstrike Setup.md",
@@ -2803,7 +2646,6 @@
       "Archive - Discontinued - 2025SEP18/03- Tools/02- Network Scanning/02- nmap.md",
       "Archive - Discontinued - 2025SEP18/03- Tools/02- Network Scanning/03- curl (Banner Grabbing).md"
     ],
-    "Archive - Discontinued - 2025SEP18/03- Tools/03- Password Cracking": [],
     "Archive - Discontinued - 2025SEP18/010. Templates": [
       "Archive - Discontinued - 2025SEP18/010. Templates/1. initial_scanning_template_inpro.md",
       "Archive - Discontinued - 2025SEP18/010. Templates/chicken_scratch_formatting.md",
@@ -2819,8 +2661,6 @@
       "Archive - Discontinued - 2025SEP18/Archived Screenshots v1/Gobots Testing JUNE BUILD.vmx~",
       "Archive - Discontinued - 2025SEP18/Archived Screenshots v1/Gobots Testing JUNE BUILD 1.vmx",
       "Archive - Discontinued - 2025SEP18/Archived Screenshots v1/Gobots Testing JUNE BUILD 1.vmx~",
-      "Archive - Discontinued - 2025SEP18/Archived Screenshots v1/Gobots Testing JUNE BUILD-disk1-000007.vmdk",
-      "Archive - Discontinued - 2025SEP18/Archived Screenshots v1/Gobots Testing JUNE BUILD-disk1-000007 1.vmdk",
       "Archive - Discontinued - 2025SEP18/Archived Screenshots v1/Gobots Testing JUNE BUILD-file1.nvram",
       "Archive - Discontinued - 2025SEP18/Archived Screenshots v1/Gobots Testing JUNE BUILD-file1 1.nvram",
       "Archive - Discontinued - 2025SEP18/Archived Screenshots v1/Gobots Testing JUNE BUILD-Snapshot7.vmsn",
@@ -6370,7 +6210,6 @@
       "Archive - Discontinued - 2025SEP18/Frontier Technology - OPTEVFOR/Initial Access Validation - Training - 18MAR2025",
       "Archive - Discontinued - 2025SEP18/Frontier Technology - OPTEVFOR/JQR Work",
       "Archive - Discontinued - 2025SEP18/Frontier Technology - OPTEVFOR/Tool Approval",
-      "Archive - Discontinued - 2025SEP18/Frontier Technology - OPTEVFOR/Untitled",
       "Archive - Discontinued - 2025SEP18/Frontier Technology - OPTEVFOR/NSA Red Team Certification Logging Requirements.md"
     ],
     "Archive - Discontinued - 2025SEP18/Frontier Technology - OPTEVFOR/Ansible - Lab Environment setup": [
@@ -6636,7 +6475,6 @@
       "Archive - Discontinued - 2025SEP18/Frontier Technology - OPTEVFOR/Tool Approval/firefox_decrypt.py.md",
       "Archive - Discontinued - 2025SEP18/Frontier Technology - OPTEVFOR/Tool Approval/MongoCLI.md"
     ],
-    "Archive - Discontinued - 2025SEP18/Frontier Technology - OPTEVFOR/Untitled": [],
     "Archive - Discontinued - 2025SEP18/HackTheBox": [
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs"
@@ -6660,10 +6498,8 @@
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/1. 10.10.110.123 - NIX01",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/2. 172.16.1.30 - CORP-MS01",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/3. 172.16.1.36 -CORP-WSADM",
-      "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/10.10.110.3 - Offlimits - Firewall",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/10.10.110.124 - 172.16.1.24 - WEB-WIN01",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/10.10.110.124 - WEB-WIN01",
-      "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/172.16.1.5 - CORP-DC01",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/172.16.1.101 - CORP-WS02",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/172.16.1.200 - DC0",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/172.16.1.201 - JOE-LPTP",
@@ -6774,7 +6610,6 @@
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/3. 172.16.1.36 -CORP-WSADM/shell_Enumeration/systeminfo.md",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/3. 172.16.1.36 -CORP-WSADM/shell_Enumeration/whoami.md"
     ],
-    "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/10.10.110.3 - Offlimits - Firewall": [],
     "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/10.10.110.124 - 172.16.1.24 - WEB-WIN01": [
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/10.10.110.124 - 172.16.1.24 - WEB-WIN01/screenshots",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/10.10.110.124 - 172.16.1.24 - WEB-WIN01/10.10.110.124 chicken scratch.md",
@@ -6785,11 +6620,8 @@
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/10.10.110.124 - 172.16.1.24 - WEB-WIN01/screenshots/Pasted image 20231115191212.png"
     ],
     "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/10.10.110.124 - WEB-WIN01": [
-      "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/10.10.110.124 - WEB-WIN01/screenshots",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/10.10.110.124 - WEB-WIN01/chicken scratch.md"
     ],
-    "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/10.10.110.124 - WEB-WIN01/screenshots": [],
-    "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/172.16.1.5 - CORP-DC01": [],
     "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/172.16.1.101 - CORP-WS02": [
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/172.16.1.101 - CORP-WS02/initial_access_Enumeration",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB Misc/htb_pro_Labs/offshore/172.16.1.101 - CORP-WS02/screenshots",
@@ -7386,14 +7218,12 @@
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/2. 172.16.1.30 - CORP-MS01",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/2nd Domain Discovery",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/3. 172.16.1.36 -CORP-WSADM",
-      "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/10.10.110.3 - Offlimits - Firewall",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/10.10.110.124 - 172.16.1.24 - WEB-WIN01 - SQL01",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/172.16.1.5 - CORP-DC01",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/172.16.1.26 - CORP-FS01",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/172.16.1.101 - CORP-WS02",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/172.16.1.200 - DC0",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/172.16.1.201 - JOE-LPTP",
-      "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/Untitled 1",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/access_Tracker.md",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/Credential List.md",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/Offshore Writeup.md",
@@ -7525,7 +7355,6 @@
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/3. 172.16.1.36 -CORP-WSADM/shell_Enumeration/systeminfo.md",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/3. 172.16.1.36 -CORP-WSADM/shell_Enumeration/whoami.md"
     ],
-    "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/10.10.110.3 - Offlimits - Firewall": [],
     "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/10.10.110.124 - 172.16.1.24 - WEB-WIN01 - SQL01": [
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/10.10.110.124 - 172.16.1.24 - WEB-WIN01 - SQL01/screenshots",
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/10.10.110.124 - 172.16.1.24 - WEB-WIN01 - SQL01/10.10.110.124 chicken scratch.md",
@@ -7632,7 +7461,6 @@
     "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/172.16.1.201 - JOE-LPTP/screenshots": [
       "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/172.16.1.201 - JOE-LPTP/screenshots/JOE PASSWORD SPRAY.png"
     ],
-    "Archive - Discontinued - 2025SEP18/HackTheBox/HTB ProLabs/Off Shore/Untitled 1": [],
     "Archive - Discontinued - 2025SEP18/linux_Commands": [
       "Archive - Discontinued - 2025SEP18/linux_Commands/fuser.md",
       "Archive - Discontinued - 2025SEP18/linux_Commands/killing tcp connections.md",
@@ -7813,7 +7641,6 @@
       "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Miscellaneous/X Screenshots/All Screenshots/TCM AD Screenshots/what is sql injection.png"
     ],
     "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Miscellaneous/X Screenshots/screenshots": [
-      "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Miscellaneous/X Screenshots/screenshots/screenshots 1",
       "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Miscellaneous/X Screenshots/screenshots/screenshots 2",
       "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Miscellaneous/X Screenshots/screenshots/screenshots 3",
       "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Miscellaneous/X Screenshots/screenshots/screenshots 4",
@@ -7858,7 +7685,6 @@
       "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Miscellaneous/X Screenshots/screenshots/49 pwned tris SV-DC01.png",
       "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Miscellaneous/X Screenshots/screenshots/50 PWNED DC.png"
     ],
-    "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Miscellaneous/X Screenshots/screenshots/screenshots 1": [],
     "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Miscellaneous/X Screenshots/screenshots/screenshots 2": [
       "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Miscellaneous/X Screenshots/screenshots/screenshots 2/1 default apache webpage.png",
       "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Miscellaneous/X Screenshots/screenshots/screenshots 2/7. shell executed.png",
@@ -7894,54 +7720,9 @@
       "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Miscellaneous/X Screenshots/screenshots/screenshots 5/13 morse code password break.png"
     ],
     "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation": [
-      "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Linux Privilege Escalation",
-      "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Windows Privilege Escalation",
       "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/740i Linux-PrivEsc.md",
       "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/740i Windows-PrivEsc.md"
     ],
-    "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Linux Privilege Escalation": [
-      "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Linux Privilege Escalation/1 anonymous - thm",
-      "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Linux Privilege Escalation/2 brainpan - buffer overflow - unfinished",
-      "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Linux Privilege Escalation/3 sudovulnsbof - thm",
-      "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Linux Privilege Escalation/4 cmess - thm",
-      "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Linux Privilege Escalation/5 convertmyvideo - thm",
-      "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Linux Privilege Escalation/6 easyctf - thm",
-      "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Linux Privilege Escalation/7 lazyadmin - thm",
-      "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Linux Privilege Escalation/8 tomghost - thm",
-      "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Linux Privilege Escalation/9 vulnversity - thm"
-    ],
-    "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Linux Privilege Escalation/1 anonymous - thm": [],
-    "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Linux Privilege Escalation/2 brainpan - buffer overflow - unfinished": [],
-    "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Linux Privilege Escalation/3 sudovulnsbof - thm": [],
-    "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Linux Privilege Escalation/4 cmess - thm": [],
-    "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Linux Privilege Escalation/5 convertmyvideo - thm": [],
-    "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Linux Privilege Escalation/6 easyctf - thm": [],
-    "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Linux Privilege Escalation/7 lazyadmin - thm": [],
-    "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Linux Privilege Escalation/8 tomghost - thm": [],
-    "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Linux Privilege Escalation/9 vulnversity - thm": [],
-    "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Windows Privilege Escalation": [
-      "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Windows Privilege Escalation/1 tcm windows privilege escalation"
-    ],
-    "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Windows Privilege Escalation/1 tcm windows privilege escalation": [
-      "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Windows Privilege Escalation/1 tcm windows privilege escalation/1 access - htb",
-      "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Windows Privilege Escalation/1 tcm windows privilege escalation/2 arctic - htb",
-      "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Windows Privilege Escalation/1 tcm windows privilege escalation/3 devel - htb",
-      "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Windows Privilege Escalation/1 tcm windows privilege escalation/5 secnotes - htb",
-      "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Windows Privilege Escalation/1 tcm windows privilege escalation/6 jeeves - htb",
-      "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Windows Privilege Escalation/1 tcm windows privilege escalation/7 bastard - htb",
-      "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Windows Privilege Escalation/1 tcm windows privilege escalation/8 bastion - htb",
-      "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Windows Privilege Escalation/1 tcm windows privilege escalation/9 blaster - thm",
-      "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Windows Privilege Escalation/1 tcm windows privilege escalation/10 querier - htb"
-    ],
-    "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Windows Privilege Escalation/1 tcm windows privilege escalation/1 access - htb": [],
-    "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Windows Privilege Escalation/1 tcm windows privilege escalation/2 arctic - htb": [],
-    "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Windows Privilege Escalation/1 tcm windows privilege escalation/3 devel - htb": [],
-    "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Windows Privilege Escalation/1 tcm windows privilege escalation/5 secnotes - htb": [],
-    "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Windows Privilege Escalation/1 tcm windows privilege escalation/6 jeeves - htb": [],
-    "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Windows Privilege Escalation/1 tcm windows privilege escalation/7 bastard - htb": [],
-    "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Windows Privilege Escalation/1 tcm windows privilege escalation/8 bastion - htb": [],
-    "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Windows Privilege Escalation/1 tcm windows privilege escalation/9 blaster - thm": [],
-    "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/Privilege Escalation/TCM Windows Privilege Escalation/1 tcm windows privilege escalation/10 querier - htb": [],
     "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/windows_Commands": [
       "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/windows_Commands/pass the hash.md",
       "Archive - Discontinued - 2025SEP18/OLD BEING FIXED/All Content/windows_Commands/taskkill.md"
@@ -8006,7 +7787,6 @@
     "Cheatsheets": [
       "Cheatsheets/SQL Injection",
       "Cheatsheets/Initial Scanning Checklist.md",
-      "Cheatsheets/Commands - Windows",
       "Cheatsheets/Commands - Linux"
     ],
     "Cheatsheets/Commands - Linux": [
@@ -8026,35 +7806,23 @@
       "Cheatsheets/Commands - Linux/Misc/unset - history.md",
       "Cheatsheets/Commands - Linux/Misc/base64 - encode - decode.md"
     ],
-    "Cheatsheets/Commands - Windows": [
-      "Cheatsheets/Commands - Windows/Commands - Powershell"
+    "Cheatsheets/SQL Injection": [
+      "Cheatsheets/SQL Injection/gerbsec.com-sql-injection-cheatsheet.md"
     ],
-    "Cheatsheets/Commands - Windows/Commands - Powershell": [],
     "Daily Tasks": [
       "Daily Tasks/20250918.md",
       "Daily Tasks/20250911.md"
     ],
     "Learning": [
-      "Learning/Offensive Security Certified Professional (OSCP)",
-      "Learning/Certified Red Team Operator (CRTO)",
-      "Learning/Offensive Security Web Assessor (OSWA)",
-      "Learning/Certified Information Systems Security Professional (CISSP)"
+      "Learning/Offensive Security Web Assessor (OSWA)"
     ],
-    "Learning/Certified Information Systems Security Professional (CISSP)": [],
-    "Learning/Offensive Security Certified Professional (OSCP)": [],
     "Learning/Offensive Security Web Assessor (OSWA)": [
       "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19"
     ],
     "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19": [
       "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Share Notez 1of2",
-      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/MedSec Pay",
-      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Ninox",
-      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Pinger 1of2",
-      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Kaleb Machine 2of2"
+      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Pinger 1of2"
     ],
-    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Kaleb Machine 2of2": [],
-    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/MedSec Pay": [],
-    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Ninox": [],
     "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Pinger 1of2": [
       "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Pinger 1of2/Notes.md"
     ],
@@ -8072,14 +7840,9 @@
       "Screenshots/ss-20250911-cobaltstrike-to-meterpreter-session-passing.png"
     ],
     "Techniques Tactics & Procedures (TTP)": [
-      "Techniques Tactics & Procedures (TTP)/SQL Injection",
       "Techniques Tactics & Procedures (TTP)/Network Scanning",
       "Techniques Tactics & Procedures (TTP)/Basic Port Enumeration",
-      "Techniques Tactics & Procedures (TTP)/Initial Access",
-      "Techniques Tactics & Procedures (TTP)/PrivEsc",
-      "Techniques Tactics & Procedures (TTP)/Exfiltration",
       "Techniques Tactics & Procedures (TTP)/Pivoting",
-      "Techniques Tactics & Procedures (TTP)/Web Applications",
       "Techniques Tactics & Procedures (TTP)/C2 Session Passing"
     ],
     "Techniques Tactics & Procedures (TTP)/Basic Port Enumeration": [
@@ -8093,8 +7856,6 @@
       "Techniques Tactics & Procedures (TTP)/C2 Session Passing/Cobalt to Meterpreter.md",
       "Techniques Tactics & Procedures (TTP)/C2 Session Passing/Meterpreter to Cobalt.md"
     ],
-    "Techniques Tactics & Procedures (TTP)/Exfiltration": [],
-    "Techniques Tactics & Procedures (TTP)/Initial Access": [],
     "Techniques Tactics & Procedures (TTP)/Network Scanning": [
       "Techniques Tactics & Procedures (TTP)/Network Scanning/nmap.md",
       "Techniques Tactics & Procedures (TTP)/Network Scanning/curl.md",
@@ -8103,14 +7864,7 @@
     "Techniques Tactics & Procedures (TTP)/Pivoting": [
       "Techniques Tactics & Procedures (TTP)/Pivoting/ssh pivot.md",
       "Techniques Tactics & Procedures (TTP)/Pivoting/chisel pivot.md"
-    ],
-    "Techniques Tactics & Procedures (TTP)/PrivEsc": [],
-    "Techniques Tactics & Procedures (TTP)/SQL Injection": [],
-    "Techniques Tactics & Procedures (TTP)/Web Applications": [],
-    "Cheatsheets/SQL Injection": [
-      "Cheatsheets/SQL Injection/gerbsec.com-sql-injection-cheatsheet.md"
-    ],
-    "Learning/Certified Red Team Operator (CRTO)": []
+    ]
   },
   "draggingEnabled": true,
   "selectedSortOrder": "manual-sorting"

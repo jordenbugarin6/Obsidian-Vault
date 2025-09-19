@@ -7821,14 +7821,16 @@
       "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19"
     ],
     "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19": [
-      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Share Notez 1of2",
+      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/IP List.md",
+      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.62 - Share Notez 1of2",
       "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Pinger 1of2"
+    ],
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.62 - Share Notez 1of2": [
+      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.62 - Share Notez 1of2/Enumeration.md",
+      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.62 - Share Notez 1of2/Notes.md"
     ],
     "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Pinger 1of2": [
       "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Pinger 1of2/Notes.md"
-    ],
-    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Share Notez 1of2": [
-      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Share Notez 1of2/Notes.md"
     ],
     "Organizational Misc": [
       "Organizational Misc/GitHub Guidance-for-Notes.md",
@@ -7836,6 +7838,19 @@
       "Organizational Misc/Tag Guidance.md"
     ],
     "Screenshots": [
+      "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic13.png",
+      "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic12.png",
+      "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic11.png",
+      "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic10.png",
+      "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic9.png",
+      "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic8.png",
+      "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic7.png",
+      "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic6.png",
+      "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic5.png",
+      "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic4.png",
+      "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic3.png",
+      "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic2.png",
+      "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-pic1.png",
       "Screenshots/ss-20250911-meterpreter-to-cobaltstrike-session-pass.png",
       "Screenshots/ss-20250911-cobaltstrike-listener-setup.png",
       "Screenshots/ss-20250911-cobaltstrike-to-meterpreter-session-passing.png"

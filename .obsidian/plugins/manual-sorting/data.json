@@ -7818,17 +7818,27 @@
     ],
     "Learning/Offensive Security Web Assessor (OSWA)": [
       "Learning/Offensive Security Web Assessor (OSWA)/testing.md",
-      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19"
+      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19",
+      "Learning/Offensive Security Web Assessor (OSWA)/IP List.md"
     ],
     "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19": [
-      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/IP List.md",
+      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.68 - Ninox",
+      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.65 - MedSecPay",
       "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.62 - Share Notez 1of2",
       "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Pinger 1of2"
     ],
     "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.62 - Share Notez 1of2": [
+      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.62 - Share Notez 1of2/nmap.md",
+      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.62 - Share Notez 1of2/gobuster.md",
       "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.62 - Share Notez 1of2/Initial Enumeration - Local.txt.md",
       "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.62 - Share Notez 1of2/Deep Enumeration.md",
       "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.62 - Share Notez 1of2/Notes.md"
+    ],
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.65 - MedSecPay": [
+      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.65 - MedSecPay/Initial Enumeration.md"
+    ],
+    "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.68 - Ninox": [
+      "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/192.168.62.68 - Ninox/initial Enumeration.md"
     ],
     "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Pinger 1of2": [
       "Learning/Offensive Security Web Assessor (OSWA)/Exam 3 2025SEP19/Pinger 1of2/Notes.md"
@@ -7839,6 +7849,32 @@
       "Organizational Misc/Tag Guidance.md"
     ],
     "Screenshots": [
+      "Screenshots/ss-20250920-OSWA-Exam-ninox-pic21.png",
+      "Screenshots/ss-20250920-OSWA-Exam-ninox-pic20.png",
+      "Screenshots/ss-20250920-OSWA-Exam-ninox-pic19.png",
+      "Screenshots/ss-20250920-OSWA-Exam-ninox-pic18.png",
+      "Screenshots/ss-20250920-OSWA-Exam-ninox-pic17.png",
+      "Screenshots/ss-20250920-OSWA-Exam-ninox-pic16.png",
+      "Screenshots/ss-20250920-OSWA-Exam-ninox-pic15.png",
+      "Screenshots/ss-20250920-OSWA-Exam-ninox-pic14.png",
+      "Screenshots/ss-20250920-OSWA-Exam-ninox-pic13.png",
+      "Screenshots/ss-20250920-OSWA-Exam-ninox-pic12.png",
+      "Screenshots/ss-20250920-OSWA-Exam-ninox-pic11.png",
+      "Screenshots/ss-20250920-OSWA-Exam-ninox-pic10.png",
+      "Screenshots/ss-20250920-OSWA-Exam-ninox-pic9.png",
+      "Screenshots/ss-20250920-OSWA-Exam-ninox-pic8.png",
+      "Screenshots/ss-20250920-OSWA-Exam-ninox-pic7.png",
+      "Screenshots/ss-20250920-OSWA-Exam-ninox-pic6.png",
+      "Screenshots/ss-20250920-OSWA-Exam-ninox-pic5.png",
+      "Screenshots/ss-20250920-OSWA-Exam-ninox-pic4.png",
+      "Screenshots/ss-20250920-OSWA-Exam-ninox-pic3.png",
+      "Screenshots/ss-20250920-OSWA-Exam-ninox-pic2.png",
+      "Screenshots/ss-20250920-OSWA-Exam-ninox-pic1.png",
+      "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic65.png",
+      "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic64.png",
+      "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic63.png",
+      "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic62.png",
+      "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic61.png",
       "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic60.png",
       "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic59.png",
       "Screenshots/ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic58.png",

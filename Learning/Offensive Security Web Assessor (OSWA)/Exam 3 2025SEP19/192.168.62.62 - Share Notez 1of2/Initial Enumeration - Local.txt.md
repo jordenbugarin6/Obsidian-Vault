@@ -441,3 +441,10 @@ what the whole `burp` request looks like after it works
 ![[ss-20250919-OSWA-Exam-ShareNotez-pic22.png]]
 reported the working `payload10.js` and now waiting to see if it gets executed
 ![[ss-20250919-OSWA-Exam-ShareNotez-pic23.png]]
+### local.txt
+reverted the machine, reutilized `payload10.js` and reported it, after reported and the hit was seen on my `python3` server was able to login as `adminsitrator:adminxss`
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic25.png]]
+```bash
+1e13aa9ea957b04c1053043b67eb2645
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic24.png]]

